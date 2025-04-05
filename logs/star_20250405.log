@@ -1,0 +1,514 @@
+2025-04-05 08:26:05,866 - star_scraper - INFO - WebDriver initialized for star
+2025-04-05 08:26:05,870 - star_scraper - INFO - Database connection established
+2025-04-05 08:26:05,871 - star_scraper - INFO - Starting scraping for star
+2025-04-05 08:26:05,872 - star_scraper - INFO - Scraping category: news from https://www.the-star.co.ke/news
+2025-04-05 08:26:05,873 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news
+2025-04-05 08:26:18,412 - star_scraper - INFO - Found 0 articles in news
+2025-04-05 08:26:18,412 - star_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:26:23,426 - star_scraper - INFO - Scraping category: business from https://www.the-star.co.ke/business
+2025-04-05 08:26:23,427 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business
+2025-04-05 08:26:31,680 - star_scraper - INFO - Found 0 articles in business
+2025-04-05 08:26:31,680 - star_scraper - INFO - Scraped 0 articles from business
+2025-04-05 08:26:36,699 - star_scraper - INFO - Scraping category: sports from https://www.the-star.co.ke/sports
+2025-04-05 08:26:36,700 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports
+2025-04-05 08:26:42,534 - star_scraper - INFO - Found 0 articles in sports
+2025-04-05 08:26:42,535 - star_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:26:47,547 - star_scraper - INFO - Scraping category: opinion from https://www.the-star.co.ke/opinion
+2025-04-05 08:26:47,547 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion
+2025-04-05 08:26:53,315 - star_scraper - INFO - Found 0 articles in opinion
+2025-04-05 08:26:53,315 - star_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 08:26:58,330 - star_scraper - INFO - Scraping category: entertainment from https://www.the-star.co.ke/entertainment
+2025-04-05 08:26:58,331 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/entertainment
+2025-04-05 08:27:20,950 - star_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 08:27:20,950 - star_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:27:25,957 - star_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:27:25,958 - star_scraper - ERROR - Scraping failed for star
+2025-04-05 08:27:27,039 - star_scraper - INFO - WebDriver closed
+2025-04-05 08:27:27,041 - star_scraper - INFO - Database connection closed
+2025-04-05 08:51:33,207 - star_scraper - INFO - WebDriver initialized for star
+2025-04-05 08:51:33,235 - star_scraper - INFO - Database connection established
+2025-04-05 08:51:33,236 - star_scraper - INFO - Starting scraping for star
+2025-04-05 08:51:33,236 - star_scraper - INFO - Scraping category: news from https://www.the-star.co.ke/news
+2025-04-05 08:51:33,236 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news
+2025-04-05 08:51:47,524 - star_scraper - INFO - Found 0 articles in news
+2025-04-05 08:51:47,525 - star_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:51:52,546 - star_scraper - INFO - Scraping category: business from https://www.the-star.co.ke/business
+2025-04-05 08:51:52,546 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business
+2025-04-05 08:51:58,560 - star_scraper - INFO - Found 0 articles in business
+2025-04-05 08:51:58,560 - star_scraper - INFO - Scraped 0 articles from business
+2025-04-05 08:52:03,569 - star_scraper - INFO - Scraping category: sports from https://www.the-star.co.ke/sports
+2025-04-05 08:52:03,569 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports
+2025-04-05 08:52:10,385 - star_scraper - INFO - Found 0 articles in sports
+2025-04-05 08:52:10,385 - star_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:52:15,401 - star_scraper - INFO - Scraping category: opinion from https://www.the-star.co.ke/opinion
+2025-04-05 08:52:15,402 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion
+2025-04-05 08:52:21,195 - star_scraper - INFO - Found 0 articles in opinion
+2025-04-05 08:52:21,195 - star_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 08:52:26,209 - star_scraper - INFO - Scraping category: entertainment from https://www.the-star.co.ke/entertainment
+2025-04-05 08:52:26,210 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/entertainment
+2025-04-05 08:52:38,112 - star_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 08:52:38,112 - star_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:52:43,120 - star_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:52:43,121 - star_scraper - ERROR - Scraping failed for star
+2025-04-05 08:52:44,034 - star_scraper - INFO - WebDriver closed
+2025-04-05 08:52:44,035 - star_scraper - INFO - Database connection closed
+2025-04-05 09:52:59,352 - star_scraper - INFO - WebDriver initialized for star
+2025-04-05 09:52:59,367 - star_scraper - INFO - Database connection established
+2025-04-05 09:52:59,367 - star_scraper - INFO - Starting scraping for star
+2025-04-05 09:52:59,368 - star_scraper - INFO - Scraping category: news from https://www.the-star.co.ke/news
+2025-04-05 09:52:59,368 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news
+2025-04-05 09:53:11,811 - star_scraper - INFO - Found 20 articles in news
+2025-04-05 09:53:11,816 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-04-photos-owalo-meets-english-soccer-star-andy-cole
+2025-04-05 09:53:19,995 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-04-photos-owalo-meets-english-soccer-star-andy-cole
+2025-04-05 09:53:20,035 - star_scraper - INFO - Article saved: [PHOTOS] Owalo meets former English soccer star Andy Cole
+2025-04-05 09:53:22,057 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-muturi-why-css-no-longer-pick-my-calls
+2025-04-05 09:53:28,453 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-muturi-why-css-no-longer-pick-my-calls
+2025-04-05 09:53:28,487 - star_scraper - INFO - Article saved: Muturi: Why my former Cabinet colleagues no longer pick my calls
+2025-04-05 09:53:30,507 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-cop-attempts-suicide-shoots-himself-in-chin-in-baringo
+2025-04-05 09:53:36,666 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-cop-attempts-suicide-shoots-himself-in-chin-in-baringo
+2025-04-05 09:53:36,690 - star_scraper - INFO - Article saved: Police officer attempts suicide, shoots himself in chin in Marigat, Baringo
+2025-04-05 09:53:38,699 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-suspects-who-assaulted-widow-at-burial-charged
+2025-04-05 09:53:45,137 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-suspects-who-assaulted-widow-at-burial-charged
+2025-04-05 09:53:45,172 - star_scraper - INFO - Article saved: Suspects who assaulted widow at burial charged
+2025-04-05 09:53:47,186 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/realtime/2025-04-04-brief-ruto-mt-kenya-tour-jolts-rigathi-kalonzo-axis
+2025-04-05 09:53:54,856 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/realtime/2025-04-04-brief-ruto-mt-kenya-tour-jolts-rigathi-kalonzo-axis
+2025-04-05 09:53:54,871 - star_scraper - WARNING - Could not extract content from https://www.the-star.co.ke/news/realtime/2025-04-04-brief-ruto-mt-kenya-tour-jolts-rigathi-kalonzo-axis
+2025-04-05 09:53:54,872 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/world/2025-04-04-children-among-14-dead-in-russian-attack-on-ukraine
+2025-04-05 09:54:03,161 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/world/2025-04-04-children-among-14-dead-in-russian-attack-on-ukraine
+2025-04-05 09:54:03,205 - star_scraper - INFO - Article saved: Children among 14 dead in Russian attack on Ukrainian city, officials say
+2025-04-05 09:54:05,214 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-04-tribunal-stops-firing-of-odm-elections-officials
+2025-04-05 09:54:22,852 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-04-tribunal-stops-firing-of-odm-elections-officials
+2025-04-05 09:54:22,878 - star_scraper - INFO - Article saved: Tribunal stops firing of ODM elections officials
+2025-04-05 09:54:24,895 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-04-letter-claiming-mcsk-ceo-mutua-has-been-fired-fake
+2025-04-05 09:54:45,388 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-04-letter-claiming-mcsk-ceo-mutua-has-been-fired-fake
+2025-04-05 09:54:45,410 - star_scraper - INFO - Article saved: Letter claiming MCSK CEO Mutua has been fired fake
+2025-04-05 09:54:47,428 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/realtime/2025-04-04-ruto-why-ig-kanja-attended-mt-kenya-rallies
+2025-04-05 09:54:54,687 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/realtime/2025-04-04-ruto-why-ig-kanja-attended-mt-kenya-rallies
+2025-04-05 09:54:54,717 - star_scraper - INFO - Article saved: Ruto: Why IG Kanja was present during my Mt Kenya tour
+2025-04-05 09:54:56,731 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-maseno-university-student-found-dead-in-suspected-suicide
+2025-04-05 09:55:02,932 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-maseno-university-student-found-dead-in-suspected-suicide
+2025-04-05 09:55:02,968 - star_scraper - INFO - Article saved: Maseno University student found hanging in his house in suspected Suicide
+2025-04-05 09:55:04,979 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/world/2025-04-05-worst-week-for-us-stocks-since-covid-crash-as-china-hits-back-on-tariffs-1
+2025-04-05 09:55:11,437 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/world/2025-04-05-worst-week-for-us-stocks-since-covid-crash-as-china-hits-back-on-tariffs-1
+2025-04-05 09:55:11,470 - star_scraper - INFO - Article saved: Worst week for US stocks since Covid crash as China hits back on tariffs
+2025-04-05 09:55:13,482 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/world/2025-04-04-trump-extends-deadline-for-tiktok-ban-in-us
+2025-04-05 09:55:19,773 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/world/2025-04-04-trump-extends-deadline-for-tiktok-ban-in-us
+2025-04-05 09:55:19,806 - star_scraper - INFO - Article saved: Trump extends deadline to keep TikTok running in US
+2025-04-05 09:55:21,817 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/world/2025-04-05-children-among-18-killed-in-russian-attack-on-zelenskys-home-city
+2025-04-05 09:55:27,993 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/world/2025-04-05-children-among-18-killed-in-russian-attack-on-zelenskys-home-city
+2025-04-05 09:55:28,019 - star_scraper - INFO - Article saved: Children among 18 killed in Russian attack on Zelensky's home city
+2025-04-05 09:55:30,030 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/corridors-of-power/2025-04-05-not-what-he-signed-up-for-ex-governor-grumbles-over-new-role
+2025-04-05 09:55:41,848 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/corridors-of-power/2025-04-05-not-what-he-signed-up-for-ex-governor-grumbles-over-new-role
+2025-04-05 09:55:41,884 - star_scraper - INFO - Article saved: Not what he signed up for? Ex-governor grumbles over new role
+2025-04-05 09:55:43,895 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/realtime/2025-04-05-ruto-tells-off-critics-of-his-mt-kenya-tour
+2025-04-05 09:55:57,565 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/realtime/2025-04-05-ruto-tells-off-critics-of-his-mt-kenya-tour
+2025-04-05 09:55:57,590 - star_scraper - INFO - Article saved: Unbothered! Ruto brushes off critics of his Mt Kenya tour
+2025-04-05 09:55:59,597 - star_scraper - INFO - Scraped 14 articles from news
+2025-04-05 09:56:04,624 - star_scraper - INFO - Scraping category: business from https://www.the-star.co.ke/business
+2025-04-05 09:56:04,624 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business
+2025-04-05 09:56:10,481 - star_scraper - INFO - Found 20 articles in business
+2025-04-05 09:56:10,493 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-03-global-insurance-provider-bupa-unveils-africa-office-in-nairobi
+2025-04-05 09:56:18,114 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-03-global-insurance-provider-bupa-unveils-africa-office-in-nairobi
+2025-04-05 09:56:18,168 - star_scraper - INFO - Article saved: Global insurance provider, Bupa unveils Africa office in Nairobi
+2025-04-05 09:56:20,177 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-02-tougher-times-for-households-as-basic-commodity-prices-surge
+2025-04-05 09:56:26,906 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-02-tougher-times-for-households-as-basic-commodity-prices-surge
+2025-04-05 09:56:26,933 - star_scraper - INFO - Article saved: Tougher times for households as basic commodity prices surge
+2025-04-05 09:56:28,945 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-04-east-african-breweries-fails-to-fully-acquire-ugandan-unit
+2025-04-05 09:56:35,314 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-04-east-african-breweries-fails-to-fully-acquire-ugandan-unit
+2025-04-05 09:56:35,352 - star_scraper - INFO - Article saved: East African Breweries fails to fully acquire Ugandan unit
+2025-04-05 09:56:37,363 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-04-apparel-biggest-casualty-as-us-slaps-kenya-with-10pct-tariff
+2025-04-05 09:56:44,059 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-04-apparel-biggest-casualty-as-us-slaps-kenya-with-10pct-tariff
+2025-04-05 09:56:44,079 - star_scraper - INFO - Article saved: Apparel biggest casualty as US slaps Kenya with 10pct tariff
+2025-04-05 09:56:46,091 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-02-electricity-users-to-shoulder-sh20bn-bill-on-lost-power
+2025-04-05 09:56:52,486 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-02-electricity-users-to-shoulder-sh20bn-bill-on-lost-power
+2025-04-05 09:56:52,507 - star_scraper - INFO - Article saved: Electricity users to shoulder Sh20bn bill on lost power
+2025-04-05 09:56:54,516 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/markets/2025-03-28-get-up-to-sh325m-when-you-need-it-with-mogo-car-logbook-loans
+2025-04-05 09:57:06,819 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/markets/2025-03-28-get-up-to-sh325m-when-you-need-it-with-mogo-car-logbook-loans
+2025-04-05 09:57:06,846 - star_scraper - INFO - Article saved: Get up to Sh3.25M when you need it with MOGO car logbook loans
+2025-04-05 09:57:08,857 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/kenya/2025-04-01-kenya-eyes-full-renewable-energy-shift-with-investor-backing
+2025-04-05 09:57:23,636 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/kenya/2025-04-01-kenya-eyes-full-renewable-energy-shift-with-investor-backing
+2025-04-05 09:57:23,658 - star_scraper - INFO - Article saved: Kenya eyes full renewable energy shift with investor backing
+2025-04-05 09:57:25,668 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-03-sgr-loan-tops-agenda-as-mbadi-leads-team-to-china
+2025-04-05 09:57:32,177 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-03-sgr-loan-tops-agenda-as-mbadi-leads-team-to-china
+2025-04-05 09:57:32,217 - star_scraper - INFO - Article saved: SGR loan tops agenda as Mbadi leads team to China
+2025-04-05 09:57:34,225 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/markets/2025-04-01-insurance-brokers-association-elect-john-lagat-as-chair
+2025-04-05 09:57:41,231 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/markets/2025-04-01-insurance-brokers-association-elect-john-lagat-as-chair
+2025-04-05 09:57:41,259 - star_scraper - INFO - Article saved: Insurance brokers association elect John Lagat as chair
+2025-04-05 09:57:43,268 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-03-win-for-financial-firms-as-kra-loses-appeal-to-tax-forex-gains
+2025-04-05 09:57:49,828 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-03-win-for-financial-firms-as-kra-loses-appeal-to-tax-forex-gains
+2025-04-05 09:57:49,860 - star_scraper - INFO - Article saved: Win for financial firms as KRA loses appeal to tax forex gains
+2025-04-05 09:57:51,871 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-03-31-wandayi-asks-parliament-to-lift-freeze-on-power-purchase-deals
+2025-04-05 09:57:58,845 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-03-31-wandayi-asks-parliament-to-lift-freeze-on-power-purchase-deals
+2025-04-05 09:57:58,865 - star_scraper - INFO - Article saved: Wandayi asks Parliament to lift freeze on power purchase deals
+2025-04-05 09:58:00,875 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-03-31-tobias-alando-the-driver-of-kenyas-industrial-growth
+2025-04-05 09:58:08,726 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-03-31-tobias-alando-the-driver-of-kenyas-industrial-growth
+2025-04-05 09:58:08,752 - star_scraper - INFO - Article saved: Tobias Alando: The driver of Kenya’s industrial growth
+2025-04-05 09:58:10,765 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-03-kenyas-hotel-bookings-tour-businesses-hit-by-cancellation-on-eta-system-failures
+2025-04-05 09:58:16,905 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-03-kenyas-hotel-bookings-tour-businesses-hit-by-cancellation-on-eta-system-failures
+2025-04-05 09:58:16,930 - star_scraper - INFO - Article saved: Kenya’s hotel bookings, tour businesses hit by cancellation on eTA system failures
+2025-04-05 09:58:18,942 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/markets/2025-04-02-kenyas-bnpl-user-adoption-triples
+2025-04-05 09:58:33,873 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/markets/2025-04-02-kenyas-bnpl-user-adoption-triples
+2025-04-05 09:58:33,912 - star_scraper - INFO - Article saved: Kenya’s BNPL user adoption triples amidst industry shake-ups
+2025-04-05 09:58:35,921 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/2025-04-02-betting-industry-sounds-tax-alarm-as-foreign-firms-infiltrate-market
+2025-04-05 09:58:45,462 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/2025-04-02-betting-industry-sounds-tax-alarm-as-foreign-firms-infiltrate-market
+2025-04-05 09:58:45,493 - star_scraper - INFO - Article saved: Betting industry sounds tax alarm as foreign firms infiltrate market
+2025-04-05 09:58:47,501 - star_scraper - INFO - Scraped 15 articles from business
+2025-04-05 09:58:52,528 - star_scraper - INFO - Scraping category: sports from https://www.the-star.co.ke/sports
+2025-04-05 09:58:52,528 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports
+2025-04-05 09:58:58,337 - star_scraper - INFO - Found 20 articles in sports
+2025-04-05 09:58:58,337 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-02-tusker-dealt-a-blow-as-talisman-ryan-ogam-out-for-the-rest-of-the-season
+2025-04-05 09:59:04,510 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-02-tusker-dealt-a-blow-as-talisman-ryan-ogam-out-for-the-rest-of-the-season
+2025-04-05 09:59:04,538 - star_scraper - INFO - Article saved: Tusker dealt a major blow as Talisman Ryan Ogam, out for the rest of the season after undergoing a knee surgery
+2025-04-05 09:59:06,548 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-st-josephs-girls-kitale-eyes-national-hockey-title-on-their-third-attempt
+2025-04-05 09:59:13,396 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-st-josephs-girls-kitale-eyes-national-hockey-title-on-their-third-attempt
+2025-04-05 09:59:13,425 - star_scraper - INFO - Article saved: St Joseph’s Girls Kitale eyes national hockey title on their third attempt
+2025-04-05 09:59:15,433 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-moraa-expects-tough-test-in-middle-distance-double-in-jamaica
+2025-04-05 09:59:22,751 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-moraa-expects-tough-test-in-middle-distance-double-in-jamaica
+2025-04-05 09:59:22,782 - star_scraper - INFO - Article saved: Moraa expects tough test in middle distance double in Jamaica
+2025-04-05 09:59:24,793 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-gor-mahia-eyes-kpl-summit-as-coach-mihic-calls-for-clinical-finishing
+2025-04-05 09:59:31,335 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-gor-mahia-eyes-kpl-summit-as-coach-mihic-calls-for-clinical-finishing
+2025-04-05 09:59:31,360 - star_scraper - INFO - Article saved: Coach Mihic urges Gor Mahia to capitalize on home fixtures in title chase
+2025-04-05 09:59:33,375 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-02-stars-coach-mccarthy-seeks-to-make-amends-ahead-of-chan-cup
+2025-04-05 09:59:40,179 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-02-stars-coach-mccarthy-seeks-to-make-amends-ahead-of-chan-cup
+2025-04-05 09:59:40,215 - star_scraper - INFO - Article saved: Stars’ coach McCarthy seeks to make amends ahead of Chan Cup
+2025-04-05 09:59:42,227 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-nairobi-royals-lejirma-on-brink-of-history-as-rwandese-nsanzuwera-closes-in
+2025-04-05 09:59:50,459 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-nairobi-royals-lejirma-on-brink-of-history-as-rwandese-nsanzuwera-closes-in
+2025-04-05 09:59:50,491 - star_scraper - INFO - Article saved: Nairobi Royal’s Lejirma on brink of history as Rwandese Nsanzuwera closes in
+2025-04-05 09:59:52,500 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-stringent-anti-doping-test-requirements-await-tokyo-championship-hopefuls
+2025-04-05 10:00:03,467 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-stringent-anti-doping-test-requirements-await-tokyo-championship-hopefuls
+2025-04-05 10:00:03,499 - star_scraper - INFO - Article saved: Stringent anti-doping test requirements await Tokyo Championship hopefuls
+2025-04-05 10:00:05,508 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-cherotich-headlines-fourth-ak-weekend-meet-in-nakuru-this-weekend
+2025-04-05 10:00:11,670 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-cherotich-headlines-fourth-ak-weekend-meet-in-nakuru-this-weekend
+2025-04-05 10:00:11,707 - star_scraper - INFO - Article saved: Cherotich headlines fourth AK weekend meet in Nakuru this weekend
+2025-04-05 10:00:13,716 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-rotich-korir-chase-more-history-in-april-13-paris-marathon-showdown
+2025-04-05 10:00:20,165 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-rotich-korir-chase-more-history-in-april-13-paris-marathon-showdown
+2025-04-05 10:00:20,193 - star_scraper - INFO - Article saved: Rotich, Korir chase more history in April 13 Paris Marathon showdown
+2025-04-05 10:00:22,202 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-coach-perpetual-and-utawala-sprints-club-are-powering-kenyas-next-speed-stars
+2025-04-05 10:00:29,727 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-coach-perpetual-and-utawala-sprints-club-are-powering-kenyas-next-speed-stars
+2025-04-05 10:00:29,752 - star_scraper - INFO - Article saved: Coach Perpetual and Utawala Sprints Club are powering Kenya’s next speed stars
+2025-04-05 10:00:31,763 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/football/2025-04-04-kevin-de-bruyne-to-leave-man-city
+2025-04-05 10:00:38,024 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/football/2025-04-04-kevin-de-bruyne-to-leave-man-city
+2025-04-05 10:00:38,055 - star_scraper - INFO - Article saved: One of the greatest, says Pep as De Bruyne set to leave Man City
+2025-04-05 10:00:40,068 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/football/2025-04-04-akwana-all-smiles-as-sofapaka-complete-kpl-double-over-ulinzi
+2025-04-05 10:00:46,993 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/football/2025-04-04-akwana-all-smiles-as-sofapaka-complete-kpl-double-over-ulinzi
+2025-04-05 10:00:47,029 - star_scraper - INFO - Article saved: Akwana all smiles as Sofapaka complete KPL double over Ulinzi
+2025-04-05 10:00:49,040 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-03-junior-starlets-ready-for-two-test-matches-against-morocco
+2025-04-05 10:00:55,936 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-03-junior-starlets-ready-for-two-test-matches-against-morocco
+2025-04-05 10:00:55,958 - star_scraper - INFO - Article saved: Junior Starlets ready for two test matches against Morocco
+2025-04-05 10:00:57,970 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-title-race-relegation-battles-hot-up-as-fkf-premier-league-enters-match-day-26
+2025-04-05 10:01:08,342 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-title-race-relegation-battles-hot-up-as-fkf-premier-league-enters-match-day-26
+2025-04-05 10:01:08,375 - star_scraper - INFO - Article saved: Title race, relegation battles hot up as FKF premier league enters match day 26
+2025-04-05 10:01:10,383 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-01-kamworor-targets-personal-best-at-rotterdam-marathon
+2025-04-05 10:01:28,168 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-01-kamworor-targets-personal-best-at-rotterdam-marathon
+2025-04-05 10:01:28,192 - star_scraper - INFO - Article saved: Kamworor targets personal best at Rotterdam Marathon
+2025-04-05 10:01:30,201 - star_scraper - INFO - Scraped 15 articles from sports
+2025-04-05 10:01:35,226 - star_scraper - INFO - Scraping category: opinion from https://www.the-star.co.ke/opinion
+2025-04-05 10:01:35,227 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion
+2025-04-05 10:01:41,102 - star_scraper - INFO - Found 20 articles in opinion
+2025-04-05 10:01:41,104 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-bwire-we-need-to-de-escalate-the-temperatures-in-the-country
+2025-04-05 10:01:47,249 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-bwire-we-need-to-de-escalate-the-temperatures-in-the-country
+2025-04-05 10:01:47,283 - star_scraper - INFO - Article saved: VICTOR BWIRE: We need to de-escalate the temperatures in the country
+2025-04-05 10:01:49,291 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/leader/2025-04-01-editorial-cs-duale-must-reform-social-health-authority
+2025-04-05 10:01:57,363 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/leader/2025-04-01-editorial-cs-duale-must-reform-social-health-authority
+2025-04-05 10:01:57,388 - star_scraper - INFO - Article saved: EDITORIAL: CS Duale must reform Social Health Authority
+2025-04-05 10:01:59,401 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-03-lidubwi-nairobis-air-quality-report-calls-for-urgent-action
+2025-04-05 10:02:05,917 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-03-lidubwi-nairobis-air-quality-report-calls-for-urgent-action
+2025-04-05 10:02:05,942 - star_scraper - INFO - Article saved: JACKLINE LIDUBWI: Nairobi’s air quality report calls for urgent action
+2025-04-05 10:02:07,954 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-03-nzau-musau-when-in-power-dont-be-a-kaaria-butcher-of-wagalla
+2025-04-05 10:02:14,733 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-03-nzau-musau-when-in-power-dont-be-a-kaaria-butcher-of-wagalla
+2025-04-05 10:02:14,769 - star_scraper - INFO - Article saved: NZAU MUSAU: When in power, don't be a Kaaria, butcher of Wagalla
+2025-04-05 10:02:16,781 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-02-lawi-sultan-ngao-ngapu-colonial-relics-in-modern-kenya
+2025-04-05 10:02:23,082 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-02-lawi-sultan-ngao-ngapu-colonial-relics-in-modern-kenya
+2025-04-05 10:02:23,112 - star_scraper - INFO - Article saved: LAWI SULTAN: NGAO, NGAPU colonial relics in modern Kenya
+2025-04-05 10:02:25,121 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-02-irene-nafula-how-connected-tech-ai-can-cut-healthcare-costs
+2025-04-05 10:02:32,326 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-02-irene-nafula-how-connected-tech-ai-can-cut-healthcare-costs
+2025-04-05 10:02:32,352 - star_scraper - INFO - Article saved: IRENE NAFULA: How connected tech, AI can cut healthcare costs
+2025-04-05 10:02:34,362 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-diaspora-food-security-bond-will-unlock-kenyas-agriculture-potential
+2025-04-05 10:02:41,316 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-diaspora-food-security-bond-will-unlock-kenyas-agriculture-potential
+2025-04-05 10:02:41,346 - star_scraper - INFO - Article saved: Diaspora food security bond will unlock Kenya’s agriculture potential
+2025-04-05 10:02:43,354 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/leader/2025-04-03-editorial-we-mourn-the-death-of-promising-devolution
+2025-04-05 10:02:50,105 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/leader/2025-04-03-editorial-we-mourn-the-death-of-promising-devolution
+2025-04-05 10:02:50,128 - star_scraper - INFO - Article saved: EDITORIAL: We mourn the death of promising devolution
+2025-04-05 10:02:52,138 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-02-fredrick-okango-inclusivity-in-governance-is-a-path-to-national-unity
+2025-04-05 10:02:58,874 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-02-fredrick-okango-inclusivity-in-governance-is-a-path-to-national-unity
+2025-04-05 10:02:58,898 - star_scraper - INFO - Article saved: FREDRICK OKANGO: Inclusivity in governance is a path to national unity
+2025-04-05 10:03:00,908 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-03-emmanuel-wandera-invest-more-in-baseload-power-to-meet-demand
+2025-04-05 10:03:08,601 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-03-emmanuel-wandera-invest-more-in-baseload-power-to-meet-demand
+2025-04-05 10:03:08,635 - star_scraper - INFO - Article saved: EMMANUEL WANDERA: Invest more in baseload power to meet demand
+2025-04-05 10:03:10,645 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-04-chrpk-jemima-ngode-harnessing-data-driven-hr-key-to-organizational-success
+2025-04-05 10:03:17,193 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-04-chrpk-jemima-ngode-harnessing-data-driven-hr-key-to-organizational-success
+2025-04-05 10:03:17,243 - star_scraper - INFO - Article saved: CHRPK JEMIMA NGODE: Harnessing data-driven HR key to organizational success
+2025-04-05 10:03:19,256 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-kenyas-trade-future-amid-trumps-america-first-policies
+2025-04-05 10:03:26,356 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-kenyas-trade-future-amid-trumps-america-first-policies
+2025-04-05 10:03:26,450 - star_scraper - INFO - Article saved: K'ONYANGO: Navigating uncertainty, Kenya's trade future amid Trump's "America First" policies
+2025-04-05 10:03:28,466 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/columnists/2025-04-01-nicholas-okumu-force-that-could-reshape-healthcare-if-we-let-it
+2025-04-05 10:03:44,647 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/columnists/2025-04-01-nicholas-okumu-force-that-could-reshape-healthcare-if-we-let-it
+2025-04-05 10:03:44,671 - star_scraper - INFO - Article saved: NICHOLAS OKUMU: Force that could reshape healthcare - if we let it
+2025-04-05 10:03:46,682 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-david-osiany-there-are-men-then-there-was-george
+2025-04-05 10:03:53,512 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-david-osiany-there-are-men-then-there-was-george
+2025-04-05 10:03:53,549 - star_scraper - INFO - Article saved: DAVID OSIANY: There are men, then there was George
+2025-04-05 10:03:55,558 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/2025-04-03-morris-makabe-world-chokes-on-waste-but-were-oblivious-to-threat
+2025-04-05 10:04:02,383 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/2025-04-03-morris-makabe-world-chokes-on-waste-but-were-oblivious-to-threat
+2025-04-05 10:04:02,409 - star_scraper - INFO - Article saved: MORRIS MAKABE: World chokes on waste but we’re oblivious to threat
+2025-04-05 10:04:04,418 - star_scraper - INFO - Scraped 15 articles from opinion
+2025-04-05 10:04:09,435 - star_scraper - INFO - Scraping category: entertainment from https://www.the-star.co.ke/entertainment
+2025-04-05 10:04:09,435 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/entertainment
+2025-04-05 10:04:15,917 - star_scraper - INFO - Found 20 articles in entertainment
+2025-04-05 10:04:15,924 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-21-body-image-at-the-heart-of-film-expo
+2025-04-05 10:04:23,815 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-21-body-image-at-the-heart-of-film-expo
+2025-04-05 10:04:23,868 - star_scraper - INFO - Article saved: Body image at the heart of film expo
+2025-04-05 10:04:25,881 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-23-jiji-ndogo-death-of-valentine-the-hanged-body
+2025-04-05 10:04:34,237 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-23-jiji-ndogo-death-of-valentine-the-hanged-body
+2025-04-05 10:04:34,273 - star_scraper - INFO - Article saved: JIJI NDOGO: Death of Valentine: The 'hanged' body
+2025-04-05 10:04:36,289 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-25-photos-bensoul-chris-kaiga-bring-the-vibe-to-magical-kenyan-open-village
+2025-04-05 10:04:50,894 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-25-photos-bensoul-chris-kaiga-bring-the-vibe-to-magical-kenyan-open-village
+2025-04-05 10:04:50,917 - star_scraper - INFO - Article saved: [PHOTOS] Bensoul, Chris Kaiga bring the vibe to Magical Kenyan Open Village
+2025-04-05 10:04:52,926 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-28-afrobeats-singer-lojay-drops-new-single-somebody-like-you
+2025-04-05 10:05:01,299 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-28-afrobeats-singer-lojay-drops-new-single-somebody-like-you
+2025-04-05 10:05:01,332 - star_scraper - INFO - Article saved: Afrobeats Singer Lojay Drops New Single 'Somebody Like You'
+2025-04-05 10:05:03,346 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-04-bachelors-diary-should-i-quit-dating-my-boss
+2025-04-05 10:05:10,952 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-04-bachelors-diary-should-i-quit-dating-my-boss
+2025-04-05 10:05:11,003 - star_scraper - INFO - Article saved: BACHELOR'S DIARY: Should I quit dating my boss?
+2025-04-05 10:05:13,012 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-03-are-casino-bonuses-worth-the-hype-weighing-the-pros-and-cons
+2025-04-05 10:05:20,458 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-03-are-casino-bonuses-worth-the-hype-weighing-the-pros-and-cons
+2025-04-05 10:05:20,495 - star_scraper - INFO - Article saved: Are Casino Bonuses Worth the Hype? Weighing the Pros and Cons
+2025-04-05 10:05:22,505 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-23-jiji-ndogo-death-of-valentine-the-foreign-connection
+2025-04-05 10:05:30,486 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-23-jiji-ndogo-death-of-valentine-the-foreign-connection
+2025-04-05 10:05:30,520 - star_scraper - INFO - Article saved: JIJI NDOGO: Death of Valentine: The foreign connection
+2025-04-05 10:05:32,529 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-14-bachelors-diary-valentines-what-a-scam
+2025-04-05 10:05:41,058 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-14-bachelors-diary-valentines-what-a-scam
+2025-04-05 10:05:41,088 - star_scraper - INFO - Article saved: BACHELOR'S DIARY: Valentine’s? What a scam!
+2025-04-05 10:05:43,103 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-01-23-jiji-ndogo-a-burning-theory-on-americas-alienation
+2025-04-05 10:05:51,788 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-01-23-jiji-ndogo-a-burning-theory-on-americas-alienation
+2025-04-05 10:05:51,811 - star_scraper - INFO - Article saved: JIJI NDOGO: A burning theory on America’s alienation
+2025-04-05 10:05:53,824 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-oscar-winning-film-rejigs-fight-to-legalise-sex-work
+2025-04-05 10:06:01,883 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-18-oscar-winning-film-rejigs-fight-to-legalise-sex-work
+2025-04-05 10:06:01,913 - star_scraper - INFO - Article saved: Oscar-winning film rejigs fight to legalise sex work
+2025-04-05 10:06:03,920 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-05-mama-of-manyatta-fetes-icon-in-war-on-aids-sgbv
+2025-04-05 10:06:12,674 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-05-mama-of-manyatta-fetes-icon-in-war-on-aids-sgbv
+2025-04-05 10:06:12,714 - star_scraper - INFO - Article saved: ‘Mama of Manyatta’ fetes icon in war on Aids, SGBV
+2025-04-05 10:06:14,728 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-04-02-perpetual-bachelor-the-sexual-harassment-workshop
+2025-04-05 10:06:29,597 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-04-02-perpetual-bachelor-the-sexual-harassment-workshop
+2025-04-05 10:06:29,631 - star_scraper - INFO - Article saved: PERPETUAL BACHELOR: The sexual harassment workshop
+2025-04-05 10:06:31,640 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-01-16-mboya-revived-in-long-but-fun-play
+2025-04-05 10:06:49,133 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-01-16-mboya-revived-in-long-but-fun-play
+2025-04-05 10:06:49,170 - star_scraper - INFO - Article saved: Mboya revived in long but fun play
+2025-04-05 10:06:51,179 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-30-jiji-ndogo-the-road-to-success-is-lonely
+2025-04-05 10:06:58,646 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-30-jiji-ndogo-the-road-to-success-is-lonely
+2025-04-05 10:06:58,666 - star_scraper - INFO - Article saved: JIJI NDOGO: The road to success is lonely
+2025-04-05 10:07:00,679 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-jiji-ndogo-death-of-valentine-the-double-life-clue
+2025-04-05 10:07:09,462 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-18-jiji-ndogo-death-of-valentine-the-double-life-clue
+2025-04-05 10:07:09,484 - star_scraper - INFO - Article saved: JIJI NDOGO: Death of Valentine: The double life clue
+2025-04-05 10:07:11,490 - star_scraper - INFO - Scraped 15 articles from entertainment
+2025-04-05 10:07:16,503 - star_scraper - INFO - Total articles scraped: 74
+2025-04-05 10:07:16,504 - star_scraper - INFO - Scraping completed successfully for star
+2025-04-05 10:07:17,213 - star_scraper - INFO - WebDriver closed
+2025-04-05 10:07:17,214 - star_scraper - INFO - Database connection closed
+2025-04-05 10:15:04,354 - star_scraper - INFO - WebDriver initialized for star
+2025-04-05 10:15:04,359 - star_scraper - INFO - Database connection established
+2025-04-05 10:15:04,360 - star_scraper - INFO - Starting scraping for star
+2025-04-05 10:15:04,361 - star_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 10:15:04,362 - star_scraper - INFO - Scraping category: news from https://www.the-star.co.ke/news
+2025-04-05 10:15:04,362 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news
+2025-04-05 10:15:16,727 - star_scraper - INFO - Found 10 articles in news
+2025-04-05 10:15:16,728 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/realtime/2025-04-05-ruto-tells-off-critics-of-his-mt-kenya-tour
+2025-04-05 10:15:16,730 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/2025-04-05-suspects-who-assaulted-widow-at-burial-charged
+2025-04-05 10:15:16,731 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-ruto-to-visit-kiambu-nyeri-as-he-concludes-week-long-mt-kenya-tour
+2025-04-05 10:15:33,841 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-ruto-to-visit-kiambu-nyeri-as-he-concludes-week-long-mt-kenya-tour
+2025-04-05 10:15:33,886 - star_scraper - INFO - Article saved: President Ruto to visit Kiambu and Nyeri as he concludes week-long Mt Kenya tour
+2025-04-05 10:15:35,897 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/world/2025-04-05-worst-week-for-us-stocks-since-covid-crash-as-china-hits-back-on-tariffs-1
+2025-04-05 10:15:35,899 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/2025-04-05-muturi-why-css-no-longer-pick-my-calls
+2025-04-05 10:15:35,900 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/2025-04-05-car-loan-no-thanks-say-civil-servants
+2025-04-05 10:15:43,201 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/2025-04-05-car-loan-no-thanks-say-civil-servants
+2025-04-05 10:15:43,229 - star_scraper - INFO - Article saved: Car loan? No thanks, say civil servants
+2025-04-05 10:15:45,238 - star_scraper - INFO - Scraped 2 articles from news, 2 total so far
+2025-04-05 10:15:50,263 - star_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 10:15:50,264 - star_scraper - INFO - Scraping category: business from https://www.the-star.co.ke/business
+2025-04-05 10:15:50,264 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business
+2025-04-05 10:15:56,181 - star_scraper - INFO - Found 20 articles in business
+2025-04-05 10:15:56,182 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/markets/2025-03-31-mwananchi-credit-reshapes-operations-to-curb-non-performing-loan-crisis
+2025-04-05 10:16:02,889 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/markets/2025-03-31-mwananchi-credit-reshapes-operations-to-curb-non-performing-loan-crisis
+2025-04-05 10:16:02,913 - star_scraper - INFO - Article saved: Mwananchi Credit reshapes operations to curb non-performing loan crisis
+2025-04-05 10:16:04,926 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-02-betting-industry-sounds-tax-alarm-as-foreign-firms-infiltrate-market
+2025-04-05 10:16:04,927 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-04-apparel-biggest-casualty-as-us-slaps-kenya-with-10pct-tariff
+2025-04-05 10:16:04,928 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-03-win-for-financial-firms-as-kra-loses-appeal-to-tax-forex-gains
+2025-04-05 10:16:04,930 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-03-sgr-loan-tops-agenda-as-mbadi-leads-team-to-china
+2025-04-05 10:16:04,930 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/markets/2025-03-28-get-up-to-sh325m-when-you-need-it-with-mogo-car-logbook-loans
+2025-04-05 10:16:04,931 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business/kenya/2025-04-01-kaa-mandates-compliance-with-service-charter
+2025-04-05 10:16:17,319 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/business/kenya/2025-04-01-kaa-mandates-compliance-with-service-charter
+2025-04-05 10:16:17,348 - star_scraper - INFO - Article saved: KAA mandates compliance with service charter to enhance aviation standards
+2025-04-05 10:16:19,355 - star_scraper - INFO - Scraped 2 articles from business, 4 total so far
+2025-04-05 10:16:24,373 - star_scraper - INFO - Aiming to scrape up to 8 articles from sports
+2025-04-05 10:16:24,374 - star_scraper - INFO - Scraping category: sports from https://www.the-star.co.ke/sports
+2025-04-05 10:16:24,375 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports
+2025-04-05 10:16:30,347 - star_scraper - INFO - Found 20 articles in sports
+2025-04-05 10:16:30,349 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-rotich-korir-chase-more-history-in-april-13-paris-marathon-showdown
+2025-04-05 10:16:30,349 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-23-refugees-picked-for-training-ahead-of-dakar-2026-la-2028
+2025-04-05 10:16:45,492 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-23-refugees-picked-for-training-ahead-of-dakar-2026-la-2028
+2025-04-05 10:16:45,531 - star_scraper - INFO - Article saved: 23 refugees picked for training ahead of Dakar 2026, LA 2028
+2025-04-05 10:16:47,542 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/football/2025-04-04-kevin-de-bruyne-to-leave-man-city
+2025-04-05 10:16:47,545 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-stringent-anti-doping-test-requirements-await-tokyo-championship-hopefuls
+2025-04-05 10:16:47,548 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-04-gor-mahia-eyes-kpl-summit-as-coach-mihic-calls-for-clinical-finishing
+2025-04-05 10:16:47,552 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-01-kamworor-targets-personal-best-at-rotterdam-marathon
+2025-04-05 10:16:47,557 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-nairobi-royals-lejirma-on-brink-of-history-as-rwandese-nsanzuwera-closes-in
+2025-04-05 10:16:47,561 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-st-josephs-girls-kitale-eyes-national-hockey-title-on-their-third-attempt
+2025-04-05 10:16:47,562 - star_scraper - INFO - Scraped 1 articles from sports, 5 total so far
+2025-04-05 10:16:52,574 - star_scraper - INFO - Aiming to scrape up to 12 articles from opinion
+2025-04-05 10:16:52,576 - star_scraper - INFO - Scraping category: opinion from https://www.the-star.co.ke/opinion
+2025-04-05 10:16:52,576 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion
+2025-04-05 10:16:58,448 - star_scraper - INFO - Found 20 articles in opinion
+2025-04-05 10:16:58,449 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-auerbach-lets-fight-climate-change-with-organic-sanitation-waste
+2025-04-05 10:17:12,200 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-auerbach-lets-fight-climate-change-with-organic-sanitation-waste
+2025-04-05 10:17:12,232 - star_scraper - INFO - Article saved: DAVID AUERBACH: Let’s fight climate change with organic and sanitation waste
+2025-04-05 10:17:14,239 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-the-indelible-mark-prof-anyang-nyongo-left-at-makerere-university
+2025-04-05 10:17:37,147 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-the-indelible-mark-prof-anyang-nyongo-left-at-makerere-university
+2025-04-05 10:17:37,173 - star_scraper - INFO - Article saved: J.A OUGO: The indelible mark Prof Anyang' Nyong'o left at Makerere University
+2025-04-05 10:17:39,184 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-diaspora-food-security-bond-will-unlock-kenyas-agriculture-potential
+2025-04-05 10:17:39,185 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-02-lawi-sultan-ngao-ngapu-colonial-relics-in-modern-kenya
+2025-04-05 10:17:39,186 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/leader/2025-04-01-editorial-cs-duale-must-reform-social-health-authority
+2025-04-05 10:17:39,187 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-bwire-we-need-to-de-escalate-the-temperatures-in-the-country
+2025-04-05 10:17:39,188 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/leader/2025-04-03-editorial-we-mourn-the-death-of-promising-devolution
+2025-04-05 10:17:39,189 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-03-morris-makabe-world-chokes-on-waste-but-were-oblivious-to-threat
+2025-04-05 10:17:39,190 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-03-lidubwi-nairobis-air-quality-report-calls-for-urgent-action
+2025-04-05 10:17:39,194 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-02-irene-nafula-how-connected-tech-ai-can-cut-healthcare-costs
+2025-04-05 10:17:39,195 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-02-fredrick-okango-inclusivity-in-governance-is-a-path-to-national-unity
+2025-04-05 10:17:39,197 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-04-chrpk-jemima-ngode-harnessing-data-driven-hr-key-to-organizational-success
+2025-04-05 10:17:39,197 - star_scraper - INFO - Scraped 2 articles from opinion, 7 total so far
+2025-04-05 10:17:44,211 - star_scraper - INFO - Aiming to scrape up to 23 articles from entertainment
+2025-04-05 10:17:44,211 - star_scraper - INFO - Scraping category: entertainment from https://www.the-star.co.ke/entertainment
+2025-04-05 10:17:44,211 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/entertainment
+2025-04-05 10:17:50,661 - star_scraper - INFO - Found 20 articles in entertainment
+2025-04-05 10:17:50,663 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-16-jiji-ndogo-prank-gone-wrong-makes-villager-faint
+2025-04-05 10:17:56,929 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-16-jiji-ndogo-prank-gone-wrong-makes-villager-faint
+2025-04-05 10:17:56,959 - star_scraper - INFO - Article saved: Prank
+2025-04-05 10:17:58,969 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-07-jiji-ndogo-wife-sleeps-on-the-job-of-paying-rent
+2025-04-05 10:18:08,765 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-07-jiji-ndogo-wife-sleeps-on-the-job-of-paying-rent
+2025-04-05 10:18:08,807 - star_scraper - INFO - Article saved: JIJI NDOGO: Wife sleeps on the job of paying rent
+2025-04-05 10:18:10,818 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-03-are-casino-bonuses-worth-the-hype-weighing-the-pros-and-cons
+2025-04-05 10:18:10,821 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-16-bachelors-diary-the-day-i-set-the-workplace-on-fire
+2025-04-05 10:18:18,437 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-16-bachelors-diary-the-day-i-set-the-workplace-on-fire
+2025-04-05 10:18:18,460 - star_scraper - INFO - Article saved: BACHELOR'S DIARY: The day I set the workplace on fire
+2025-04-05 10:18:20,472 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-21-body-image-at-the-heart-of-film-expo
+2025-04-05 10:18:20,476 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-01-16-mboya-revived-in-long-but-fun-play
+2025-04-05 10:18:20,482 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-23-jiji-ndogo-death-of-valentine-the-foreign-connection
+2025-04-05 10:18:20,488 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-23-jiji-ndogo-death-of-valentine-the-hanged-body
+2025-04-05 10:18:20,494 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-25-photos-bensoul-chris-kaiga-bring-the-vibe-to-magical-kenyan-open-village
+2025-04-05 10:18:20,499 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-28-afrobeats-singer-lojay-drops-new-single-somebody-like-you
+2025-04-05 10:18:20,503 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-14-bachelors-diary-valentines-what-a-scam
+2025-04-05 10:18:20,505 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-oscar-winning-film-rejigs-fight-to-legalise-sex-work
+2025-04-05 10:18:20,508 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-04-bachelors-diary-should-i-quit-dating-my-boss
+2025-04-05 10:18:20,511 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-04-02-perpetual-bachelor-the-sexual-harassment-workshop
+2025-04-05 10:18:20,513 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-01-23-jiji-ndogo-a-burning-theory-on-americas-alienation
+2025-04-05 10:18:20,515 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-30-jiji-ndogo-the-road-to-success-is-lonely
+2025-04-05 10:18:20,519 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-jiji-ndogo-death-of-valentine-the-double-life-clue
+2025-04-05 10:18:20,523 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-03-26-meet-njerae-singer-blending-love-and-soul-into-rb
+2025-04-05 10:18:30,443 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-03-26-meet-njerae-singer-blending-love-and-soul-into-rb
+2025-04-05 10:18:30,480 - star_scraper - INFO - Article saved: Meet Njerae: Kenyan singer blending love and soul into R&B
+2025-04-05 10:18:32,492 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sasa/entertainment/2025-02-15-singer-christina-shusho-appointed-managing-director-finsco-tanzania
+2025-04-05 10:18:52,047 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sasa/entertainment/2025-02-15-singer-christina-shusho-appointed-managing-director-finsco-tanzania
+2025-04-05 10:18:52,071 - star_scraper - INFO - Article saved: Singer Christina Shusho named managing director of Finsco, Tanzania
+2025-04-05 10:18:54,081 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-05-mama-of-manyatta-fetes-icon-in-war-on-aids-sgbv
+2025-04-05 10:18:54,082 - star_scraper - INFO - Scraped 5 articles from entertainment, 12 total so far
+2025-04-05 10:18:59,096 - star_scraper - INFO - Total articles scraped: 12 (max limit: 30)
+2025-04-05 10:18:59,097 - star_scraper - INFO - Scraping completed successfully for star
+2025-04-05 10:18:59,658 - star_scraper - INFO - WebDriver closed
+2025-04-05 10:18:59,658 - star_scraper - INFO - Database connection closed
+2025-04-05 11:22:39,005 - star_scraper - INFO - WebDriver initialized for star
+2025-04-05 11:22:39,013 - star_scraper - INFO - Database connection established
+2025-04-05 11:22:39,014 - star_scraper - INFO - Starting scraping for star
+2025-04-05 11:22:39,018 - star_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 11:22:39,019 - star_scraper - INFO - Scraping category: news from https://www.the-star.co.ke/news
+2025-04-05 11:22:39,019 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news
+2025-04-05 11:22:51,345 - star_scraper - INFO - Found 20 articles in news
+2025-04-05 11:22:51,347 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/world/2025-04-04-trump-extends-deadline-for-tiktok-ban-in-us
+2025-04-05 11:22:51,348 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/realtime/2025-04-05-ruto-tells-off-critics-of-his-mt-kenya-tour
+2025-04-05 11:22:51,349 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/2025-04-04-letter-claiming-mcsk-ceo-mutua-has-been-fired-fake
+2025-04-05 11:22:51,350 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/2025-04-05-maseno-university-student-found-dead-in-suspected-suicide
+2025-04-05 11:22:51,351 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/news/world/2025-04-05-rubio-dismisses-criticism-over-us-response-to-myanmar-quake
+2025-04-05 11:23:07,754 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/news/world/2025-04-05-rubio-dismisses-criticism-over-us-response-to-myanmar-quake
+2025-04-05 11:23:07,794 - star_scraper - INFO - Article saved: Rubio dismisses criticism over US response to Myanmar quake
+2025-04-05 11:23:09,809 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/news/world/2025-04-05-children-among-18-killed-in-russian-attack-on-zelenskys-home-city
+2025-04-05 11:23:09,810 - star_scraper - INFO - Scraped 1 articles from news, 1 total so far
+2025-04-05 11:23:14,828 - star_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 11:23:14,829 - star_scraper - INFO - Scraping category: business from https://www.the-star.co.ke/business
+2025-04-05 11:23:14,829 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/business
+2025-04-05 11:23:20,731 - star_scraper - INFO - Found 20 articles in business
+2025-04-05 11:23:20,732 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/markets/2025-03-28-get-up-to-sh325m-when-you-need-it-with-mogo-car-logbook-loans
+2025-04-05 11:23:20,739 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-03-global-insurance-provider-bupa-unveils-africa-office-in-nairobi
+2025-04-05 11:23:20,740 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-02-tougher-times-for-households-as-basic-commodity-prices-surge
+2025-04-05 11:23:20,742 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/kenya/2025-04-01-kenya-eyes-full-renewable-energy-shift-with-investor-backing
+2025-04-05 11:23:20,742 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-02-betting-industry-sounds-tax-alarm-as-foreign-firms-infiltrate-market
+2025-04-05 11:23:20,743 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-03-31-tobias-alando-the-driver-of-kenyas-industrial-growth
+2025-04-05 11:23:20,744 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/business/2025-04-04-apparel-biggest-casualty-as-us-slaps-kenya-with-10pct-tariff
+2025-04-05 11:23:20,744 - star_scraper - INFO - Scraped 0 articles from business, 1 total so far
+2025-04-05 11:23:25,755 - star_scraper - INFO - Aiming to scrape up to 9 articles from sports
+2025-04-05 11:23:25,755 - star_scraper - INFO - Scraping category: sports from https://www.the-star.co.ke/sports
+2025-04-05 11:23:25,762 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports
+2025-04-05 11:23:31,562 - star_scraper - INFO - Found 20 articles in sports
+2025-04-05 11:23:31,563 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-02-starlets-to-play-friendly-matches-against-ivorians-ahead-of-wafcon-qualifier
+2025-04-05 11:23:38,362 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-02-starlets-to-play-friendly-matches-against-ivorians-ahead-of-wafcon-qualifier
+2025-04-05 11:23:38,380 - star_scraper - INFO - Article saved: Starlets to play friendly matches against Ivorians ahead of Wafcon qualifier
+2025-04-05 11:23:40,392 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-02-kcb-coach-mangeni-concerned-about-gaps-in-positioning
+2025-04-05 11:23:47,805 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-02-kcb-coach-mangeni-concerned-about-gaps-in-positioning
+2025-04-05 11:23:47,824 - star_scraper - INFO - Article saved: KCB coach Mang’eni concerned about gaps in positioning
+2025-04-05 11:23:49,833 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-nairobi-royals-lejirma-on-brink-of-history-as-rwandese-nsanzuwera-closes-in
+2025-04-05 11:23:49,835 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-02-stars-coach-mccarthy-seeks-to-make-amends-ahead-of-chan-cup
+2025-04-05 11:23:49,837 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/sports/2025-04-04-kenya-under-20-team-set-to-open-title-defence-against-tunisia-in-harare
+2025-04-05 11:23:56,105 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/sports/2025-04-04-kenya-under-20-team-set-to-open-title-defence-against-tunisia-in-harare
+2025-04-05 11:23:56,124 - star_scraper - INFO - Article saved: Kenya Under-20 team set to open title defence against Tunisia in Harare
+2025-04-05 11:23:58,134 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-04-23-refugees-picked-for-training-ahead-of-dakar-2026-la-2028
+2025-04-05 11:23:58,137 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-04-gor-mahia-eyes-kpl-summit-as-coach-mihic-calls-for-clinical-finishing
+2025-04-05 11:23:58,141 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-rotich-korir-chase-more-history-in-april-13-paris-marathon-showdown
+2025-04-05 11:23:58,144 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sports/2025-04-03-moraa-expects-tough-test-in-middle-distance-double-in-jamaica
+2025-04-05 11:23:58,144 - star_scraper - INFO - Scraped 3 articles from sports, 4 total so far
+2025-04-05 11:24:03,176 - star_scraper - INFO - Aiming to scrape up to 13 articles from opinion
+2025-04-05 11:24:03,177 - star_scraper - INFO - Scraping category: opinion from https://www.the-star.co.ke/opinion
+2025-04-05 11:24:03,177 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion
+2025-04-05 11:24:09,030 - star_scraper - INFO - Found 20 articles in opinion
+2025-04-05 11:24:09,031 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/leader/2025-04-01-editorial-cs-duale-must-reform-social-health-authority
+2025-04-05 11:24:09,031 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/leader/2025-04-02-editorial-nations-meeting-kenya-must-share-intelligence
+2025-04-05 11:24:18,367 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/leader/2025-04-02-editorial-nations-meeting-kenya-must-share-intelligence
+2025-04-05 11:24:18,386 - star_scraper - INFO - Article saved: EDITORIAL: Nations meeting Kenya must share intelligence
+2025-04-05 11:24:20,397 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-02-irene-nafula-how-connected-tech-ai-can-cut-healthcare-costs
+2025-04-05 11:24:20,400 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-04-03-david-osiany-there-are-men-then-there-was-george
+2025-04-05 11:24:20,403 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-auerbach-lets-fight-climate-change-with-organic-sanitation-waste
+2025-04-05 11:24:20,407 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-02-fredrick-okango-inclusivity-in-governance-is-a-path-to-national-unity
+2025-04-05 11:24:20,412 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-diaspora-food-security-bond-will-unlock-kenyas-agriculture-potential
+2025-04-05 11:24:20,415 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-04-chrpk-jemima-ngode-harnessing-data-driven-hr-key-to-organizational-success
+2025-04-05 11:24:20,419 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-03-nzau-musau-when-in-power-dont-be-a-kaaria-butcher-of-wagalla
+2025-04-05 11:24:20,423 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-03-28-the-indelible-mark-prof-anyang-nyongo-left-at-makerere-university
+2025-04-05 11:24:20,429 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/star-blogs/2025-04-02-kenyas-trade-future-amid-trumps-america-first-policies
+2025-04-05 11:24:20,434 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/opinion/star-blogs/2025-03-30-natembeya-a-proxy-politician-seeking-to-split-western-kenya-vote
+2025-04-05 11:24:42,698 - star_scraper - INFO - Successfully extracted structured data from JSON-LD for https://www.the-star.co.ke/opinion/star-blogs/2025-03-30-natembeya-a-proxy-politician-seeking-to-split-western-kenya-vote
+2025-04-05 11:24:42,725 - star_scraper - INFO - Article saved: OTIENDE: Is Natembeya a proxy politician seeking to split Western Kenya vote?
+2025-04-05 11:24:44,736 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/opinion/2025-04-03-emmanuel-wandera-invest-more-in-baseload-power-to-meet-demand
+2025-04-05 11:24:44,737 - star_scraper - INFO - Scraped 2 articles from opinion, 6 total so far
+2025-04-05 11:24:49,764 - star_scraper - INFO - Aiming to scrape up to 24 articles from entertainment
+2025-04-05 11:24:49,765 - star_scraper - INFO - Scraping category: entertainment from https://www.the-star.co.ke/entertainment
+2025-04-05 11:24:49,765 - star_scraper - INFO - Loading URL: https://www.the-star.co.ke/entertainment
+2025-04-05 11:24:56,010 - star_scraper - INFO - Found 20 articles in entertainment
+2025-04-05 11:24:56,012 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-21-body-image-at-the-heart-of-film-expo
+2025-04-05 11:24:56,013 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-04-bachelors-diary-should-i-quit-dating-my-boss
+2025-04-05 11:24:56,013 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-07-jiji-ndogo-wife-sleeps-on-the-job-of-paying-rent
+2025-04-05 11:24:56,014 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-oscar-winning-film-rejigs-fight-to-legalise-sex-work
+2025-04-05 11:24:56,015 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-03-are-casino-bonuses-worth-the-hype-weighing-the-pros-and-cons
+2025-04-05 11:24:56,015 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-30-jiji-ndogo-the-road-to-success-is-lonely
+2025-04-05 11:24:56,016 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-05-mama-of-manyatta-fetes-icon-in-war-on-aids-sgbv
+2025-04-05 11:24:56,017 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-23-jiji-ndogo-death-of-valentine-the-hanged-body
+2025-04-05 11:24:56,018 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-16-bachelors-diary-the-day-i-set-the-workplace-on-fire
+2025-04-05 11:24:56,019 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-14-bachelors-diary-valentines-what-a-scam
+2025-04-05 11:24:56,020 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-26-meet-njerae-singer-blending-love-and-soul-into-rb
+2025-04-05 11:24:56,021 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-18-jiji-ndogo-death-of-valentine-the-double-life-clue
+2025-04-05 11:24:56,022 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-16-jiji-ndogo-prank-gone-wrong-makes-villager-faint
+2025-04-05 11:24:56,023 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-25-photos-bensoul-chris-kaiga-bring-the-vibe-to-magical-kenyan-open-village
+2025-04-05 11:24:56,024 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-28-afrobeats-singer-lojay-drops-new-single-somebody-like-you
+2025-04-05 11:24:56,025 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-04-02-perpetual-bachelor-the-sexual-harassment-workshop
+2025-04-05 11:24:56,026 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-01-23-jiji-ndogo-a-burning-theory-on-americas-alienation
+2025-04-05 11:24:56,026 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-01-16-mboya-revived-in-long-but-fun-play
+2025-04-05 11:24:56,027 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-02-15-singer-christina-shusho-appointed-managing-director-finsco-tanzania
+2025-04-05 11:24:56,028 - star_scraper - INFO - Article already exists: https://www.the-star.co.ke/sasa/entertainment/2025-03-23-jiji-ndogo-death-of-valentine-the-foreign-connection
+2025-04-05 11:24:56,028 - star_scraper - INFO - Scraped 0 articles from entertainment, 6 total so far
+2025-04-05 11:25:01,036 - star_scraper - INFO - Total articles scraped: 6 (max limit: 30)
+2025-04-05 11:25:01,037 - star_scraper - INFO - Scraping completed successfully for star
+2025-04-05 11:25:01,458 - star_scraper - INFO - WebDriver closed
+2025-04-05 11:25:01,458 - star_scraper - INFO - Database connection closed

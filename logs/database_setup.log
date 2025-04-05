@@ -1,0 +1,8 @@
+2025-04-05 07:34:25,969 - root - INFO - Starting database setup...
+2025-04-05 07:34:26,058 - root - INFO - Table 'citizen_articles' created or already exists.
+2025-04-05 07:34:26,111 - root - INFO - Table 'daily_nations_articles' created or already exists.
+2025-04-05 07:34:26,168 - root - INFO - Table 'standardmedia_articles' created or already exists.
+2025-04-05 07:34:26,224 - root - INFO - Table 'star_articles' created or already exists.
+2025-04-05 07:34:26,280 - root - INFO - Table 'tuko_articles' created or already exists.
+2025-04-05 07:34:26,307 - root - INFO - All database tables have been set up successfully.
+2025-04-05 07:34:26,308 - root - INFO - Database connection closed.

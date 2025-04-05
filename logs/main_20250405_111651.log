@@ -1,0 +1,24 @@
+2025-04-05 11:16:51,101 - main - INFO - Starting Kenya News scraping process
+2025-04-05 11:16:51,102 - main - INFO - Running citizen scraper
+2025-04-05 11:16:51,102 - main - INFO - Starting CitizenScraper
+2025-04-05 11:18:52,668 - main - INFO - CitizenScraper completed: successful
+2025-04-05 11:18:52,668 - main - INFO - Running daily_nations scraper
+2025-04-05 11:18:52,668 - main - INFO - Starting DailyNationsScraper
+2025-04-05 11:20:04,319 - main - INFO - DailyNationsScraper completed: failed
+2025-04-05 11:20:04,319 - main - INFO - Running standardmedia scraper
+2025-04-05 11:20:04,319 - main - INFO - Starting StandardMediaScraper
+2025-04-05 11:22:35,764 - main - INFO - StandardMediaScraper completed: failed
+2025-04-05 11:22:35,764 - main - INFO - Running star scraper
+2025-04-05 11:22:35,765 - main - INFO - Starting StarScraper
+2025-04-05 11:25:01,459 - main - INFO - StarScraper completed: successful
+2025-04-05 11:25:01,460 - main - INFO - Running tuko scraper
+2025-04-05 11:25:01,460 - main - INFO - Starting TukoScraper
+2025-04-05 11:29:19,556 - main - INFO - TukoScraper completed: successful
+2025-04-05 11:29:19,556 - main - INFO - Scraping process completed
+2025-04-05 11:29:19,556 - main - INFO - Summary:
+2025-04-05 11:29:19,556 - main - INFO -   citizen: Success
+2025-04-05 11:29:19,556 - main - INFO -   daily_nations: Failed
+2025-04-05 11:29:19,557 - main - INFO -   standardmedia: Failed
+2025-04-05 11:29:19,557 - main - INFO -   star: Success
+2025-04-05 11:29:19,557 - main - INFO -   tuko: Success
+2025-04-05 11:29:19,557 - main - INFO - Overall status: Partial failure

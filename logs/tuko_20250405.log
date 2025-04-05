@@ -1,0 +1,441 @@
+2025-04-05 08:27:30,376 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 08:27:30,380 - tuko_scraper - INFO - Database connection established
+2025-04-05 08:27:30,381 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 08:27:30,381 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 08:27:30,382 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 08:27:44,201 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 08:27:44,202 - tuko_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:27:49,216 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 08:27:49,216 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 08:27:56,716 - tuko_scraper - INFO - Found 17 articles in entertainment
+2025-04-05 08:27:56,720 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:28:05,618 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:28:05,620 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584469-limuru-worry-widow-lost-hubby-3-kids-nakuru-accident-hospitalised/
+2025-04-05 08:28:14,394 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584469-limuru-worry-widow-lost-hubby-3-kids-nakuru-accident-hospitalised/
+2025-04-05 08:28:14,395 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584450-limuru-househelp-family-7-killed-crash-explains-child-buried-first/
+2025-04-05 08:28:21,393 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584450-limuru-househelp-family-7-killed-crash-explains-child-buried-first/
+2025-04-05 08:28:21,394 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584713-kenya-renews-gulf-oil-import-deal-secures-pump-prices/
+2025-04-05 08:28:28,624 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584713-kenya-renews-gulf-oil-import-deal-secures-pump-prices/
+2025-04-05 08:28:28,625 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 08:28:35,319 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 08:28:35,320 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:28:43,325 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:28:43,327 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:28:50,683 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:28:50,684 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:28:57,889 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:28:57,891 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:29:05,764 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:29:05,765 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/428766-tano-tena-hitmaker-ben-githae-among-musicians-expected-entertain-kenyans-mashujaa-day.html
+2025-04-05 08:29:13,366 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/428766-tano-tena-hitmaker-ben-githae-among-musicians-expected-entertain-kenyans-mashujaa-day.html
+2025-04-05 08:29:13,367 - tuko_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:29:18,379 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 08:29:18,380 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 08:29:24,657 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 08:29:24,659 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584669-kalonzo-musyoka-sets-record-straight-attack-raila-working-govt/
+2025-04-05 08:29:32,001 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584669-kalonzo-musyoka-sets-record-straight-attack-raila-working-govt/
+2025-04-05 08:29:32,009 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584467-kisii-star-witness-dg-mondas-impeachment-admits-lying-oath-arati-forced-him/
+2025-04-05 08:29:38,847 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584467-kisii-star-witness-dg-mondas-impeachment-admits-lying-oath-arati-forced-him/
+2025-04-05 08:29:38,849 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584631-william-ruto-forced-stop-speech-maragua-residents-start-singing-warning-song-gachagua/
+2025-04-05 08:29:47,939 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584631-william-ruto-forced-stop-speech-maragua-residents-start-singing-warning-song-gachagua/
+2025-04-05 08:29:47,940 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584568-kimani-ichungwah-speaks-heckled-front-ruto-kelele-za-chura/
+2025-04-05 08:29:54,940 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584568-kimani-ichungwah-speaks-heckled-front-ruto-kelele-za-chura/
+2025-04-05 08:29:54,942 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584492-kimani-ichungwah-tells-rutos-critics-dared-tour-mt-kenya-rais-ako-wapi/
+2025-04-05 08:30:09,008 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584492-kimani-ichungwah-tells-rutos-critics-dared-tour-mt-kenya-rais-ako-wapi/
+2025-04-05 08:30:09,009 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:30:15,746 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:30:15,747 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:30:22,520 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:30:22,522 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:30:29,679 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:30:29,680 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:30:36,576 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:30:36,578 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 08:30:44,902 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 08:30:44,903 - tuko_scraper - INFO - Scraped 0 articles from politics
+2025-04-05 08:30:49,965 - tuko_scraper - INFO - Scraping category: lifestyle from https://www.tuko.co.ke/lifestyle
+2025-04-05 08:30:49,966 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/lifestyle
+2025-04-05 08:30:57,000 - tuko_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 08:30:57,001 - tuko_scraper - INFO - Scraped 0 articles from lifestyle
+2025-04-05 08:31:02,014 - tuko_scraper - INFO - Scraping category: sports from https://www.tuko.co.ke/sports
+2025-04-05 08:31:02,014 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports
+2025-04-05 08:31:09,226 - tuko_scraper - INFO - Found 17 articles in sports
+2025-04-05 08:31:09,227 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584574-george-oduor-widow-raila-odingas-bodyguard-painfully-weeps-hubbys-memorial-mass/
+2025-04-05 08:31:17,772 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584574-george-oduor-widow-raila-odingas-bodyguard-painfully-weeps-hubbys-memorial-mass/
+2025-04-05 08:31:17,774 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/relationships/584685-married-kenyan-women-boldly-admit-knowing-husbands-girlfriends/
+2025-04-05 08:31:26,487 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/relationships/584685-married-kenyan-women-boldly-admit-knowing-husbands-girlfriends/
+2025-04-05 08:31:26,488 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/football/584700-ruben-amorim-lauds-kevin-de-bruyne-man-united-man-city/
+2025-04-05 08:31:33,607 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/sports/football/584700-ruben-amorim-lauds-kevin-de-bruyne-man-united-man-city/
+2025-04-05 08:31:33,608 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584646-justin-muturi-discloses-initially-turned-william-rutos-job-offer-ag/
+2025-04-05 08:31:40,966 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584646-justin-muturi-discloses-initially-turned-william-rutos-job-offer-ag/
+2025-04-05 08:31:40,967 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/584681-mike-sonko-vows-machakos-woman-attacked-by-hyenas-tsavo-nitakulipia-nyumba-3-months/
+2025-04-05 08:31:48,414 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/584681-mike-sonko-vows-machakos-woman-attacked-by-hyenas-tsavo-nitakulipia-nyumba-3-months/
+2025-04-05 08:31:48,415 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:31:55,302 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:31:55,303 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:32:01,895 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:32:01,897 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:32:08,555 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 08:32:08,556 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:32:15,745 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 08:32:15,746 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/569235-who-charles-leclercs-girlfriend-meet-alexandra-saint-mleux/
+2025-04-05 08:32:24,708 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/sports/569235-who-charles-leclercs-girlfriend-meet-alexandra-saint-mleux/
+2025-04-05 08:32:24,709 - tuko_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:32:29,730 - tuko_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:32:29,730 - tuko_scraper - ERROR - Scraping failed for tuko
+2025-04-05 08:32:30,450 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 08:32:30,451 - tuko_scraper - INFO - Database connection closed
+2025-04-05 08:52:47,544 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 08:52:47,549 - tuko_scraper - INFO - Database connection established
+2025-04-05 08:52:47,549 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 08:52:47,550 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 08:52:47,550 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 08:52:56,122 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 08:52:56,122 - tuko_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:53:01,140 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 08:53:01,141 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 08:53:10,842 - tuko_scraper - INFO - Found 17 articles in entertainment
+2025-04-05 08:53:10,846 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584574-george-oduor-widow-raila-odingas-bodyguard-painfully-weeps-hubbys-memorial-mass/
+2025-04-05 08:53:20,210 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584574-george-oduor-widow-raila-odingas-bodyguard-painfully-weeps-hubbys-memorial-mass/
+2025-04-05 08:53:20,211 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 08:53:27,110 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 08:53:27,119 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:53:34,871 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:53:34,872 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/584704-kenya-newspapers-review-ruto-s-unstoppable-2027-rallies-support-mt-kenya/
+2025-04-05 08:53:41,438 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/kenya/584704-kenya-newspapers-review-ruto-s-unstoppable-2027-rallies-support-mt-kenya/
+2025-04-05 08:53:41,439 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584469-limuru-worry-widow-lost-hubby-3-kids-nakuru-accident-hospitalised/
+2025-04-05 08:53:48,362 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584469-limuru-worry-widow-lost-hubby-3-kids-nakuru-accident-hospitalised/
+2025-04-05 08:53:48,363 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:53:55,858 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:53:55,859 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:54:02,277 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:54:02,278 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:54:09,602 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:54:09,603 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:54:16,546 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584721-americas-passion-tariffs-rarely-pays-economists-warn/
+2025-04-05 08:54:16,548 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584151-mashemeji-derby-legged-afc-leopards-fan-viral-energetic-dance-moves/
+2025-04-05 08:54:23,655 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584151-mashemeji-derby-legged-afc-leopards-fan-viral-energetic-dance-moves/
+2025-04-05 08:54:23,655 - tuko_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:54:28,688 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 08:54:28,689 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 08:54:34,937 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 08:54:34,938 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 08:54:42,344 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 08:54:42,345 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584629-odm-delegates-nairobi-sifunas-move-fire-election-officials-listening/
+2025-04-05 08:54:49,302 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584629-odm-delegates-nairobi-sifunas-move-fire-election-officials-listening/
+2025-04-05 08:54:49,304 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584602-mutahi-kahiga-ruto-lost-grip-mt-kenya-attending-nyeri-rally-mlima-una-wenyewe/
+2025-04-05 08:54:56,203 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584602-mutahi-kahiga-ruto-lost-grip-mt-kenya-attending-nyeri-rally-mlima-una-wenyewe/
+2025-04-05 08:54:56,204 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584563-kiambu-senator-hints-reason-mutahi-kahiga-attended-rutos-rally-deliberate-exposure/
+2025-04-05 08:55:03,677 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584563-kiambu-senator-hints-reason-mutahi-kahiga-attended-rutos-rally-deliberate-exposure/
+2025-04-05 08:55:03,678 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584486-machakos-looming-political-showdown-alfred-mutua-allied-mcas-oppose-speakers-impeachment/
+2025-04-05 08:55:10,942 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584486-machakos-looming-political-showdown-alfred-mutua-allied-mcas-oppose-speakers-impeachment/
+2025-04-05 08:55:10,943 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584723-bradley-marongo-confesses-crush-amina-abdi-gifts-iphone-live-tv/
+2025-04-05 08:55:17,412 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/celebrities/584723-bradley-marongo-confesses-crush-amina-abdi-gifts-iphone-live-tv/
+2025-04-05 08:55:17,414 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:55:25,198 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:55:25,199 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:55:31,762 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:55:31,763 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:55:38,985 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:55:38,986 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/583779-okiya-omtatah-slams-kdf-nis-response-ruto-chants-list-4-demands-govt/
+2025-04-05 08:55:47,371 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/583779-okiya-omtatah-slams-kdf-nis-response-ruto-chants-list-4-demands-govt/
+2025-04-05 08:55:47,371 - tuko_scraper - INFO - Scraped 0 articles from politics
+2025-04-05 08:55:52,387 - tuko_scraper - INFO - Scraping category: lifestyle from https://www.tuko.co.ke/lifestyle
+2025-04-05 08:55:52,388 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/lifestyle
+2025-04-05 08:55:59,361 - tuko_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 08:55:59,362 - tuko_scraper - INFO - Scraped 0 articles from lifestyle
+2025-04-05 08:56:04,368 - tuko_scraper - INFO - Scraping category: sports from https://www.tuko.co.ke/sports
+2025-04-05 08:56:04,369 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports
+2025-04-05 08:56:10,750 - tuko_scraper - INFO - Found 17 articles in sports
+2025-04-05 08:56:10,751 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:56:17,318 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 08:56:17,320 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584439-woman-baby-allegedly-changed-hospital-relived-nurse-fired/
+2025-04-05 08:56:25,543 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584439-woman-baby-allegedly-changed-hospital-relived-nurse-fired/
+2025-04-05 08:56:25,544 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584669-kalonzo-musyoka-sets-record-straight-attack-raila-working-govt/
+2025-04-05 08:56:32,287 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584669-kalonzo-musyoka-sets-record-straight-attack-raila-working-govt/
+2025-04-05 08:56:32,288 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584655-pastor-nganga-tells-woman-lamenting-hubby-leaving-ni-hii-nywele/
+2025-04-05 08:56:39,941 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/celebrities/584655-pastor-nganga-tells-woman-lamenting-hubby-leaving-ni-hii-nywele/
+2025-04-05 08:56:39,943 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584512-kareh-b-discloses-cheated-cousin-house-bed/
+2025-04-05 08:56:48,513 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/celebrities/584512-kareh-b-discloses-cheated-cousin-house-bed/
+2025-04-05 08:56:48,515 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584723-bradley-marongo-confesses-crush-amina-abdi-gifts-iphone-live-tv/
+2025-04-05 08:56:55,156 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/celebrities/584723-bradley-marongo-confesses-crush-amina-abdi-gifts-iphone-live-tv/
+2025-04-05 08:56:55,157 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:57:03,722 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 08:57:03,723 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:57:10,276 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 08:57:10,278 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:57:16,843 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584722-fractious-republicans-seek-unity-trump-tax-cuts/
+2025-04-05 08:57:16,845 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/576520-who-kenny-andersons-spouse-everything-know/
+2025-04-05 08:57:24,497 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/sports/576520-who-kenny-andersons-spouse-everything-know/
+2025-04-05 08:57:24,498 - tuko_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:57:29,549 - tuko_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:57:29,550 - tuko_scraper - ERROR - Scraping failed for tuko
+2025-04-05 08:57:30,182 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 08:57:30,184 - tuko_scraper - INFO - Database connection closed
+2025-04-05 10:07:21,348 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 10:07:21,383 - tuko_scraper - INFO - Database connection established
+2025-04-05 10:07:21,383 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 10:07:21,383 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 10:07:21,383 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 10:07:37,923 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 10:07:37,925 - tuko_scraper - INFO - Scraped 0 articles from news
+2025-04-05 10:07:42,943 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 10:07:42,943 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 10:07:49,046 - tuko_scraper - INFO - Found 17 articles in entertainment
+2025-04-05 10:07:49,058 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 10:07:58,371 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/education/584706-moi-university-dentistry-students-decry-closure-clinics-threaten-demos-disappointed/
+2025-04-05 10:07:58,373 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584362-vihiga-tragedy-young-mother-kills-2-children-husband-work/
+2025-04-05 10:08:05,815 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584362-vihiga-tragedy-young-mother-kills-2-children-husband-work/
+2025-04-05 10:08:05,823 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584716-kenya-institute-mass-communication-announces-jobs-casuals-kcse-d/
+2025-04-05 10:08:13,914 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584716-kenya-institute-mass-communication-announces-jobs-casuals-kcse-d/
+2025-04-05 10:08:13,915 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 10:08:20,904 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 10:08:20,906 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 10:08:28,210 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 10:08:28,212 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584716-kenya-institute-mass-communication-announces-jobs-casuals-kcse-d/
+2025-04-05 10:08:35,001 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/business-economy/584716-kenya-institute-mass-communication-announces-jobs-casuals-kcse-d/
+2025-04-05 10:08:35,002 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584717-drama-section-embu-youth-shut-william-ruto-tour-uongo-uongo/
+2025-04-05 10:08:41,514 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584717-drama-section-embu-youth-shut-william-ruto-tour-uongo-uongo/
+2025-04-05 10:08:41,515 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/relationships/584683-woman-arrested-allegedly-hubby-killed-2-weeks-wedding/
+2025-04-05 10:08:48,077 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/relationships/584683-woman-arrested-allegedly-hubby-killed-2-weeks-wedding/
+2025-04-05 10:08:48,078 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584695-nairobi-mum-verge-abandoning-kid-by-roadside-rescued-by-wellwisher-depression-evident/
+2025-04-05 10:08:54,576 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/people/family/584695-nairobi-mum-verge-abandoning-kid-by-roadside-rescued-by-wellwisher-depression-evident/
+2025-04-05 10:08:54,577 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/503641-samidoh-baffled-by-leaked-chats-karen-nyamu-confirms-legally-married/
+2025-04-05 10:09:02,829 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/entertainment/celebrities/503641-samidoh-baffled-by-leaked-chats-karen-nyamu-confirms-legally-married/
+2025-04-05 10:09:02,830 - tuko_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 10:09:07,849 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 10:09:07,849 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 10:09:14,065 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 10:09:14,067 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584467-kisii-star-witness-dg-mondas-impeachment-admits-lying-oath-arati-forced-him/
+2025-04-05 10:09:20,944 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584467-kisii-star-witness-dg-mondas-impeachment-admits-lying-oath-arati-forced-him/
+2025-04-05 10:09:20,946 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 10:09:29,479 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584502-kimani-ichungwah-heckled-by-angry-crowd-william-rutos-mt-kenya-tour/
+2025-04-05 10:09:29,480 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584654-trans-nzoia-women-leaders-condemn-agriculture-cecm-phanice-khatundis-primitive-remarks/
+2025-04-05 10:09:36,435 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584654-trans-nzoia-women-leaders-condemn-agriculture-cecm-phanice-khatundis-primitive-remarks/
+2025-04-05 10:09:36,437 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584537-rigathi-gachagua-ally-responds-kimani-ichungwah-heckled-nyandarua-walipe-yao-kando/
+2025-04-05 10:09:44,245 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584537-rigathi-gachagua-ally-responds-kimani-ichungwah-heckled-nyandarua-walipe-yao-kando/
+2025-04-05 10:09:44,247 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584563-kiambu-senator-hints-reason-mutahi-kahiga-attended-rutos-rally-deliberate-exposure/
+2025-04-05 10:09:52,180 - tuko_scraper - WARNING - Could not find title on page: https://www.tuko.co.ke/politics/584563-kiambu-senator-hints-reason-mutahi-kahiga-attended-rutos-rally-deliberate-exposure/
+2025-04-05 10:09:52,181 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584725-pastor-nganga-lectures-woman-hairstyle-disclosing-hubby-dumped-her/
+2025-04-05 10:09:59,847 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 10:09:59,848 - tuko_scraper - INFO - Database connection closed
+2025-04-05 10:19:03,634 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 10:19:03,641 - tuko_scraper - INFO - Database connection established
+2025-04-05 10:19:03,641 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 10:19:03,642 - tuko_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 10:19:03,642 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 10:19:03,642 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 10:19:20,302 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 10:19:20,302 - tuko_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 10:19:25,326 - tuko_scraper - INFO - Aiming to scrape up to 7 articles from entertainment
+2025-04-05 10:19:25,327 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 10:19:25,327 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 10:19:32,968 - tuko_scraper - INFO - Found 17 articles in entertainment
+2025-04-05 10:19:32,976 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584693-tharaka-nithi-crowd-walks-kimani-ichungwah-rutos-tour-mt-kenya/
+2025-04-05 10:19:42,077 - tuko_scraper - INFO - Extracted content from article element, length: 2965
+2025-04-05 10:19:42,107 - tuko_scraper - INFO - Article saved: Tharaka Nithi: Crowd Walks Out on Kimani Ichung'wah During Ruto's Tour in Mt. Kenya
+2025-04-05 10:19:44,114 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584668-justin-muturi-william-ruto-approached-join-kenya-kwanza-coalition-2022/
+2025-04-05 10:19:51,201 - tuko_scraper - INFO - Extracted content from article element, length: 3199
+2025-04-05 10:19:51,221 - tuko_scraper - INFO - Article saved: Justin Muturi Says William Ruto Approached Him to Join Kenya Kwanza Coalition in 2022
+2025-04-05 10:19:53,229 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584528-karen-nyamu-responds-man-claiming-curves-helped-senatorial-job-ungekuwa-mama-mboga/
+2025-04-05 10:20:00,177 - tuko_scraper - INFO - Extracted content from article element, length: 2938
+2025-04-05 10:20:00,196 - tuko_scraper - INFO - Article saved: Karen Nyamu Responds to Man Claiming Her Curves Helped Her Get Senatorial Job: “Ungekuwa Mama Mboga”
+2025-04-05 10:20:02,206 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 10:20:09,574 - tuko_scraper - INFO - Extracted content from article element, length: 2637
+2025-04-05 10:20:09,596 - tuko_scraper - INFO - Article saved: Female Football Fan Cries in Stands after Ulinzi Stars' Loss: “Mnafikiria Tunaskia Aje?”
+2025-04-05 10:20:11,608 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/584676-garissa-leader-warns-boda-boda-riders-carrying-women-lists-consequences/
+2025-04-05 10:20:19,562 - tuko_scraper - INFO - Extracted content from article element, length: 2878
+2025-04-05 10:20:19,602 - tuko_scraper - INFO - Article saved: Garissa Leader Warns Boda Boda Riders Against Carrying Women, Lists Consequences
+2025-04-05 10:20:21,612 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584720-nyeri-leaders-plead-locals-stop-heckling-ruto-concludes-mt-kenya-tour-hii-haisaidii/
+2025-04-05 10:20:30,111 - tuko_scraper - INFO - Extracted content from article element, length: 2775
+2025-04-05 10:20:30,138 - tuko_scraper - INFO - Article saved: Nyeri Leaders Plead with Locals to Stop Heckling as Ruto Concludes Mt Kenya Tour: "Hii Haisaidii"
+2025-04-05 10:20:32,148 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 10:20:40,537 - tuko_scraper - INFO - Extracted content from article element, length: 3197
+2025-04-05 10:20:40,566 - tuko_scraper - INFO - Article saved: Busia Mum Desperately Appeals for Justice for MKU Son Found Dead in Forest: "Shule Iwajibike"
+2025-04-05 10:20:40,574 - tuko_scraper - INFO - Reached article limit for category entertainment
+2025-04-05 10:20:40,574 - tuko_scraper - INFO - Scraped 7 articles from entertainment, 7 total so far
+2025-04-05 10:20:45,580 - tuko_scraper - INFO - Aiming to scrape up to 7 articles from politics
+2025-04-05 10:20:45,581 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 10:20:45,581 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 10:20:52,729 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 10:20:52,730 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584724-georgina-njenga-recalls-provider-2-relationships-bar/
+2025-04-05 10:21:00,091 - tuko_scraper - INFO - Extracted content from article element, length: 1657
+2025-04-05 10:21:00,112 - tuko_scraper - INFO - Article saved: Georgina Njenga Recalls Being Provider in 2 Relationships: “Bar Was Low”
+2025-04-05 10:21:02,120 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584725-pastor-nganga-lectures-woman-hairstyle-disclosing-hubby-dumped-her/
+2025-04-05 10:21:09,241 - tuko_scraper - INFO - Extracted content from article element, length: 3194
+2025-04-05 10:21:09,260 - tuko_scraper - ERROR - Error saving article: 1366 (HY000): Incorrect string value: '\xF0\x9F\xA6\x8B s...' for column 'content' at row 1
+2025-04-05 10:21:11,261 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/583183-raila-odingas-supporters-claim-peter-salasya-attacked-by-gabon-fans/
+2025-04-05 10:21:21,835 - tuko_scraper - INFO - Extracted content from article element, length: 4072
+2025-04-05 10:21:21,866 - tuko_scraper - INFO - Article saved: Raila Odinga's Supporters Claim Peter Salasya Was Attacked by Gabon Fans
+2025-04-05 10:21:23,876 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584134-william-ruto-claims-rigathi-gachagua-demanded-ksh-10b-i-ill/
+2025-04-05 10:21:31,199 - tuko_scraper - INFO - Extracted content from article element, length: 2661
+2025-04-05 10:21:31,220 - tuko_scraper - INFO - Article saved: William Ruto Claims Rigathi Gachagua Demanded KSh 10b: “I Said I’ll Not Do It”
+2025-04-05 10:21:33,232 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584689-nations-divided-decisive-week-shipping-emissions/
+2025-04-05 10:21:40,615 - tuko_scraper - INFO - Extracted content from article element, length: 4429
+2025-04-05 10:21:40,645 - tuko_scraper - INFO - Article saved: Nations divided ahead of decisive week for shipping emissions
+2025-04-05 10:21:42,657 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584695-nairobi-mum-verge-abandoning-kid-by-roadside-rescued-by-wellwisher-depression-evident/
+2025-04-05 10:21:49,662 - tuko_scraper - INFO - Extracted content from article element, length: 2558
+2025-04-05 10:21:49,690 - tuko_scraper - INFO - Article saved: Nairobi Mum on Verge of Abandoning Kid by Roadside Rescued by Well-Wisher: "Depression Is Evident"
+2025-04-05 10:21:51,701 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584726-bradley-marongo-feature-bollywood-movie-naenda-india/
+2025-04-05 10:21:58,695 - tuko_scraper - INFO - Extracted content from article element, length: 2484
+2025-04-05 10:21:58,728 - tuko_scraper - INFO - Article saved: Bradley Marongo Says He Will Feature in Bollywood Movie: "Naenda India”
+2025-04-05 10:22:00,735 - tuko_scraper - INFO - Scraped 6 articles from politics, 13 total so far
+2025-04-05 10:22:05,757 - tuko_scraper - INFO - Aiming to scrape up to 8 articles from lifestyle
+2025-04-05 10:22:05,757 - tuko_scraper - INFO - Scraping category: lifestyle from https://www.tuko.co.ke/lifestyle
+2025-04-05 10:22:05,758 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/lifestyle
+2025-04-05 10:22:12,993 - tuko_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 10:22:12,994 - tuko_scraper - INFO - Scraped 0 articles from lifestyle, 13 total so far
+2025-04-05 10:22:18,006 - tuko_scraper - INFO - Aiming to scrape up to 17 articles from sports
+2025-04-05 10:22:18,006 - tuko_scraper - INFO - Scraping category: sports from https://www.tuko.co.ke/sports
+2025-04-05 10:22:18,007 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports
+2025-04-05 10:22:26,245 - tuko_scraper - INFO - Found 16 articles in sports
+2025-04-05 10:22:26,246 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584725-pastor-nganga-lectures-woman-hairstyle-disclosing-hubby-dumped-her/
+2025-04-05 10:22:33,346 - tuko_scraper - INFO - Extracted content from article element, length: 3194
+2025-04-05 10:22:33,375 - tuko_scraper - ERROR - Error saving article: 1366 (HY000): Incorrect string value: '\xF0\x9F\xA6\x8B s...' for column 'content' at row 1
+2025-04-05 10:22:35,382 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584574-george-oduor-widow-raila-odingas-bodyguard-painfully-weeps-hubbys-memorial-mass/
+2025-04-05 10:22:44,359 - tuko_scraper - INFO - Extracted content from article element, length: 3261
+2025-04-05 10:22:44,380 - tuko_scraper - INFO - Article saved: George Oduor: Widow of Raila Odinga's Bodyguard Painfully Weeps During Hubby's Memorial Mass
+2025-04-05 10:22:46,393 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584544-nick-mudimba-journalist-leaves-daughter-expectant-wife/
+2025-04-05 10:22:53,479 - tuko_scraper - INFO - Extracted content from article element, length: 3502
+2025-04-05 10:22:53,510 - tuko_scraper - INFO - Article saved: Nick Mudimba: Journalist Leaves Behind Daughter, Expectant Wife
+2025-04-05 10:22:55,518 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/celebrities/584726-bradley-marongo-feature-bollywood-movie-naenda-india/
+2025-04-05 10:22:55,520 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/politics/584720-nyeri-leaders-plead-locals-stop-heckling-ruto-concludes-mt-kenya-tour-hii-haisaidii/
+2025-04-05 10:22:55,522 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584712-vital-european-defence-startups-facing-hurdles/
+2025-04-05 10:23:02,852 - tuko_scraper - INFO - Extracted content from article element, length: 5918
+2025-04-05 10:23:02,878 - tuko_scraper - INFO - Article saved: Vital European defence startups still facing hurdles
+2025-04-05 10:23:04,889 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/people/family/584715-busia-mum-desperately-appeals-justice-mku-son-dead-forest-shule-iajibike/
+2025-04-05 10:23:04,892 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/facts-lifehacks/fashion-style/583616-what-rarest-hair-type-quick-facts-type-1a-hair/
+2025-04-05 10:23:12,556 - tuko_scraper - INFO - Extracted content from article element, length: 4139
+2025-04-05 10:23:12,584 - tuko_scraper - INFO - Article saved: What is the rarest hair type? Quick facts about Type 1A hair
+2025-04-05 10:23:14,593 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584561-kcb-bank-announces-job-openings-kenyans-april/
+2025-04-05 10:23:21,604 - tuko_scraper - INFO - Extracted content from article element, length: 3315
+2025-04-05 10:23:21,631 - tuko_scraper - INFO - Article saved: KCB Bank Announces Several Managerial Job Openings for Kenyans in April
+2025-04-05 10:23:23,639 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584662-rish-kamunge-speaks-legal-woes-friends-stopped-picking-calls/
+2025-04-05 10:23:33,197 - tuko_scraper - INFO - Extracted content from article element, length: 3177
+2025-04-05 10:23:33,233 - tuko_scraper - INFO - Article saved: Rish Kamunge Speaks after Legal Woes, Says Friends Stopped Picking Her Calls: "You Are Alone"
+2025-04-05 10:23:35,243 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/556539-samantha-irvins-net-worth-earnings-a-wwe-announcer/
+2025-04-05 10:23:43,093 - tuko_scraper - INFO - Extracted content from article element, length: 3361
+2025-04-05 10:23:43,121 - tuko_scraper - INFO - Article saved: Samantha Irvin's net worth and earnings as a WWE announcer
+2025-04-05 10:23:45,131 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584664-mum-newborn-reportedly-switched-hospital-speaks-dna-results-sio-wangu/
+2025-04-05 10:23:53,283 - tuko_scraper - INFO - Extracted content from article element, length: 2960
+2025-04-05 10:23:53,313 - tuko_scraper - INFO - Article saved: Mum Whose Newborn Was Reportedly Switched in Hospital Speaks after DNA Results: "Sio Wangu"
+2025-04-05 10:23:55,322 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584666-kamene-goro-celebrity-stops-supermarket-overwhelmed/
+2025-04-05 10:24:02,507 - tuko_scraper - INFO - Extracted content from article element, length: 2652
+2025-04-05 10:24:02,537 - tuko_scraper - INFO - Article saved: Kamene Goro Says Being Celebrity Stops Her from Going to Supermarket: "Get Overwhelmed"
+2025-04-05 10:24:04,547 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/569235-who-charles-leclercs-girlfriend-meet-alexandra-saint-mleux/
+2025-04-05 10:24:13,069 - tuko_scraper - INFO - Extracted content from article element, length: 4745
+2025-04-05 10:24:13,109 - tuko_scraper - INFO - Article saved: Who is Charles Leclerc's girlfriend? Meet Alexandra Saint Mleux
+2025-04-05 10:24:15,118 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584698-tiktok-faces-deadline-ditch-chinese-owner/
+2025-04-05 10:24:22,170 - tuko_scraper - INFO - Extracted content from article element, length: 5019
+2025-04-05 10:24:22,197 - tuko_scraper - INFO - Article saved: TikTok faces new US deadline to ditch Chinese owner
+2025-04-05 10:24:24,205 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584716-kenya-institute-mass-communication-announces-jobs-casuals-kcse-d/
+2025-04-05 10:24:31,037 - tuko_scraper - INFO - Extracted content from article element, length: 3087
+2025-04-05 10:24:31,064 - tuko_scraper - INFO - Article saved: Kenya Institute of Mass Communication Announces Jobs for Casuals: "KCSE D-"
+2025-04-05 10:24:33,072 - tuko_scraper - INFO - Scraped 12 articles from sports, 25 total so far
+2025-04-05 10:24:38,123 - tuko_scraper - INFO - ✅ Saved 25 articles to tuko_articles.csv
+2025-04-05 10:24:38,123 - tuko_scraper - INFO - Total articles scraped: 25 (max limit: 30)
+2025-04-05 10:24:38,124 - tuko_scraper - INFO - Scraping completed successfully for tuko
+2025-04-05 10:24:38,541 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 10:24:38,541 - tuko_scraper - INFO - Database connection closed
+2025-04-05 11:25:04,585 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 11:25:04,591 - tuko_scraper - INFO - Database connection established
+2025-04-05 11:25:04,592 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 11:25:04,592 - tuko_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 11:25:04,593 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 11:25:04,593 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 11:25:24,403 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 11:25:24,403 - tuko_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 11:25:29,416 - tuko_scraper - INFO - Aiming to scrape up to 7 articles from entertainment
+2025-04-05 11:25:29,417 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 11:25:29,418 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 11:25:36,654 - tuko_scraper - INFO - Found 17 articles in entertainment
+2025-04-05 11:25:36,663 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584719-sylvia-kemunto-main-suspect-students-murder-surrenders-police-revisit-crime-scene-clues/
+2025-04-05 11:25:46,587 - tuko_scraper - INFO - Extracted content from article element, length: 2979
+2025-04-05 11:25:46,618 - tuko_scraper - INFO - Article saved: Sylvia Kemunto: Main Suspect in Student's Murder Surrenders as Police Revisit Crime Scene for Clues
+2025-04-05 11:25:48,629 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/football/584678-football-world-reacts-kevin-de-bruynes-manchester-city-exit-announcement/
+2025-04-05 11:25:56,727 - tuko_scraper - INFO - Extracted content from article element, length: 2595
+2025-04-05 11:25:56,751 - tuko_scraper - INFO - Article saved: Football World Reacts to Kevin De Bruyne’s Manchester City Exit Announcement
+2025-04-05 11:25:58,764 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 11:25:58,769 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584727-aphrc-advertises-jobs-kenyan-diploma-holders-lists-requirements/
+2025-04-05 11:26:06,275 - tuko_scraper - INFO - Extracted content from article element, length: 2759
+2025-04-05 11:26:06,301 - tuko_scraper - INFO - Article saved: APHRC Advertises Jobs for Kenyan Diploma Holders, Lists Other Requirements
+2025-04-05 11:26:08,312 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584620-slyvia-kemuntos-mum-tearfully-narrates-how-learnt-death/
+2025-04-05 11:26:15,272 - tuko_scraper - INFO - Extracted content from article element, length: 4063
+2025-04-05 11:26:15,308 - tuko_scraper - INFO - Article saved: Sylvia Kemunto’s Mum Tearfully Narrates How She Learnt of Her Death
+2025-04-05 11:26:17,320 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584682-land-cruiser-notice-accepting-gently-baby-mamas-cracks-kenyans/
+2025-04-05 11:26:24,901 - tuko_scraper - INFO - Extracted content from article element, length: 2814
+2025-04-05 11:26:24,931 - tuko_scraper - INFO - Article saved: Land Cruiser With Notice About Accepting Gently Used Baby Mamas Cracks Up Kenyans
+2025-04-05 11:26:26,949 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 11:26:33,984 - tuko_scraper - INFO - Extracted content from article element, length: 2871
+2025-04-05 11:26:34,004 - tuko_scraper - INFO - Article saved: Kakamega: Married Man Nursing Injuries after Being Bitten by Side Chick
+2025-04-05 11:26:36,012 - tuko_scraper - INFO - Scraped 6 articles from entertainment, 6 total so far
+2025-04-05 11:26:41,019 - tuko_scraper - INFO - Aiming to scrape up to 8 articles from politics
+2025-04-05 11:26:41,019 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 11:26:41,020 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 11:26:48,673 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 11:26:48,674 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584719-sylvia-kemunto-main-suspect-students-murder-surrenders-police-revisit-crime-scene-clues/
+2025-04-05 11:26:48,675 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/business-economy/584727-aphrc-advertises-jobs-kenyan-diploma-holders-lists-requirements/
+2025-04-05 11:26:48,676 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584687-trump-goads-china-beijing-retaliates-global-trade-war/
+2025-04-05 11:26:55,155 - tuko_scraper - INFO - Extracted content from article element, length: 5079
+2025-04-05 11:26:55,186 - tuko_scraper - INFO - Article saved: Trump goads China after Beijing retaliates in global trade war
+2025-04-05 11:26:57,199 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/people/family/584695-nairobi-mum-verge-abandoning-kid-by-roadside-rescued-by-wellwisher-depression-evident/
+2025-04-05 11:26:57,204 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584647-justin-muturi-ruto-unfit-president-claims-s-corrupt-dangerous-character/
+2025-04-05 11:27:03,809 - tuko_scraper - INFO - Extracted content from article element, length: 3406
+2025-04-05 11:27:03,836 - tuko_scraper - INFO - Article saved: Justin Muturi Says Ruto Is Unfit to Be President, Claims He's Corrupt: "Dangerous Character"
+2025-04-05 11:27:05,847 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 11:27:05,852 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/editorial/opinion/584675-i-send-money-home-im-met-negativity-curses-nifanyeje-expert-advises/
+2025-04-05 11:27:12,913 - tuko_scraper - INFO - Extracted content from article element, length: 3002
+2025-04-05 11:27:12,940 - tuko_scraper - INFO - Article saved: "I Send Money Home Yet I’m Met with Negativity and Curses, What Can I Do?": Expert Advises
+2025-04-05 11:27:14,954 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584146-william-ruto-names-leaders-gachagua-clashed-impeachment-kila-siku-ilikuwa-kesi/
+2025-04-05 11:27:22,346 - tuko_scraper - INFO - Extracted content from article element, length: 3229
+2025-04-05 11:27:22,383 - tuko_scraper - INFO - Article saved: William Ruto Names Leaders Gachagua Clashed with Before Impeachment: "Kila Siku Ilikuwa Kesi"
+2025-04-05 11:27:24,391 - tuko_scraper - INFO - Scraped 4 articles from politics, 10 total so far
+2025-04-05 11:27:29,418 - tuko_scraper - INFO - Aiming to scrape up to 10 articles from lifestyle
+2025-04-05 11:27:29,419 - tuko_scraper - INFO - Scraping category: lifestyle from https://www.tuko.co.ke/lifestyle
+2025-04-05 11:27:29,419 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/lifestyle
+2025-04-05 11:27:36,860 - tuko_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 11:27:36,860 - tuko_scraper - INFO - Scraped 0 articles from lifestyle, 10 total so far
+2025-04-05 11:27:41,866 - tuko_scraper - INFO - Aiming to scrape up to 20 articles from sports
+2025-04-05 11:27:41,867 - tuko_scraper - INFO - Scraping category: sports from https://www.tuko.co.ke/sports
+2025-04-05 11:27:41,867 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports
+2025-04-05 11:27:49,399 - tuko_scraper - INFO - Found 16 articles in sports
+2025-04-05 11:27:49,400 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584719-sylvia-kemunto-main-suspect-students-murder-surrenders-police-revisit-crime-scene-clues/
+2025-04-05 11:27:49,402 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/sports/569235-who-charles-leclercs-girlfriend-meet-alexandra-saint-mleux/
+2025-04-05 11:27:49,403 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/business-economy/584727-aphrc-advertises-jobs-kenyan-diploma-holders-lists-requirements/
+2025-04-05 11:27:49,404 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584680-us-hiring-beats-expectations-march-tariff-uncertainty-brews/
+2025-04-05 11:27:57,524 - tuko_scraper - INFO - Extracted content from article element, length: 4074
+2025-04-05 11:27:57,548 - tuko_scraper - INFO - Article saved: US hiring beats expectations in March as tariff uncertainty brews
+2025-04-05 11:27:59,559 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584653-captain-sammir-introduces-lover-hours-splitting-sabrina/
+2025-04-05 11:28:08,190 - tuko_scraper - INFO - Extracted content from article element, length: 3175
+2025-04-05 11:28:08,213 - tuko_scraper - ERROR - Error saving article: 1366 (HY000): Incorrect string value: '\xF0\x9F\x92\x9B s...' for column 'content' at row 1
+2025-04-05 11:28:10,217 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584646-justin-muturi-discloses-initially-turned-william-rutos-job-offer-ag/
+2025-04-05 11:28:17,241 - tuko_scraper - INFO - Extracted content from article element, length: 3615
+2025-04-05 11:28:17,261 - tuko_scraper - INFO - Article saved: Justin Muturi Discloses He Initially Turned Down William Ruto's Job Offer as AG
+2025-04-05 11:28:19,271 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584702-kakamega-married-man-nursing-injuries-bitten-by-side-chick/
+2025-04-05 11:28:19,274 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/sports/556539-samantha-irvins-net-worth-earnings-a-wwe-announcer/
+2025-04-05 11:28:19,277 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/editorial/opinion/584675-i-send-money-home-im-met-negativity-curses-nifanyeje-expert-advises/
+2025-04-05 11:28:19,280 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584732-trans-nzoia-21-year-woman-dies-delivery-alleged-medical-negligence/
+2025-04-05 11:28:25,733 - tuko_scraper - INFO - Extracted content from article element, length: 3116
+2025-04-05 11:28:25,764 - tuko_scraper - INFO - Article saved: Trans Nzoia: 21-Year-Old Woman Dies During Delivery Amid Alleged Medical Negligence
+2025-04-05 11:28:27,774 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584669-kalonzo-musyoka-sets-record-straight-attack-raila-working-govt/
+2025-04-05 11:28:34,649 - tuko_scraper - INFO - Extracted content from article element, length: 3515
+2025-04-05 11:28:34,677 - tuko_scraper - INFO - Article saved: Kalonzo Musyoka Sets Record Straight on Why He Can Never Attack Raila Despite Working with Govt
+2025-04-05 11:28:36,688 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/celebrities/584544-nick-mudimba-journalist-leaves-daughter-expectant-wife/
+2025-04-05 11:28:36,692 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584713-kenya-renews-gulf-oil-import-deal-secures-pump-prices/
+2025-04-05 11:28:43,888 - tuko_scraper - INFO - Extracted content from article element, length: 4175
+2025-04-05 11:28:43,924 - tuko_scraper - INFO - Article saved: Kenya Renews Gulf Oil Import Deal, Secures Lower Pump Prices
+2025-04-05 11:28:45,938 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/407344-condolence-messages-loss-a-great-leader-boss.html
+2025-04-05 11:28:52,908 - tuko_scraper - INFO - Extracted content from article element, length: 6215
+2025-04-05 11:28:52,943 - tuko_scraper - INFO - Article saved: 100+ condolence messages for loss of a great leader or boss
+2025-04-05 11:28:54,950 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584731-john-mbadi-slams-nyanza-leaders-unnecessary-noise-urges-focus-governance/
+2025-04-05 11:29:01,805 - tuko_scraper - INFO - Extracted content from article element, length: 2605
+2025-04-05 11:29:01,832 - tuko_scraper - INFO - Article saved: John Mbadi Slams Nyanza Leaders Over Unnecessary Noise, Urges Focus on Governance
+2025-04-05 11:29:03,845 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/571473-who-lexi-thompsons-husband-what-dating-life/
+2025-04-05 11:29:12,053 - tuko_scraper - INFO - Extracted content from article element, length: 4317
+2025-04-05 11:29:12,088 - tuko_scraper - INFO - Article saved: Who is Lexi Thompson's husband? What we know about her dating life
+2025-04-05 11:29:14,094 - tuko_scraper - INFO - Scraped 8 articles from sports, 18 total so far
+2025-04-05 11:29:19,125 - tuko_scraper - INFO - ✅ Saved 18 articles to tuko_articles.csv
+2025-04-05 11:29:19,125 - tuko_scraper - INFO - Total articles scraped: 18 (max limit: 30)
+2025-04-05 11:29:19,126 - tuko_scraper - INFO - Scraping completed successfully for tuko
+2025-04-05 11:29:19,556 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 11:29:19,556 - tuko_scraper - INFO - Database connection closed

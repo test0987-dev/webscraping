@@ -1,0 +1,175 @@
+2025-04-05 08:24:23,413 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 08:24:23,422 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 08:24:23,423 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 08:24:23,424 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 08:24:23,424 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 08:24:42,654 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 08:24:42,655 - standardmedia_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:24:47,663 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 08:24:47,664 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 08:25:03,148 - standardmedia_scraper - INFO - Found 0 articles in business
+2025-04-05 08:25:03,149 - standardmedia_scraper - INFO - Scraped 0 articles from business
+2025-04-05 08:25:08,164 - standardmedia_scraper - INFO - Scraping category: sports from https://www.standardmedia.co.ke/sports
+2025-04-05 08:25:08,165 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/sports
+2025-04-05 08:25:20,666 - standardmedia_scraper - INFO - Found 0 articles in sports
+2025-04-05 08:25:20,667 - standardmedia_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:25:25,678 - standardmedia_scraper - INFO - Scraping category: opinion from https://www.standardmedia.co.ke/opinion
+2025-04-05 08:25:25,678 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/opinion
+2025-04-05 08:25:37,370 - standardmedia_scraper - INFO - Found 0 articles in opinion
+2025-04-05 08:25:37,371 - standardmedia_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 08:25:42,379 - standardmedia_scraper - INFO - Scraping category: entertainment from https://www.standardmedia.co.ke/entertainment
+2025-04-05 08:25:42,379 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/entertainment
+2025-04-05 08:25:56,692 - standardmedia_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 08:25:56,692 - standardmedia_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:26:01,699 - standardmedia_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:26:01,700 - standardmedia_scraper - ERROR - Scraping failed for standardmedia
+2025-04-05 08:26:02,317 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 08:26:02,319 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 08:46:06,319 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 08:46:06,336 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 08:46:06,336 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 08:46:06,336 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 08:46:06,336 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 08:46:25,209 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 08:46:25,209 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 08:49:30,103 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 08:49:30,109 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 08:49:30,109 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 08:49:30,110 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 08:49:30,110 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 08:50:03,064 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 08:50:03,064 - standardmedia_scraper - INFO - Scraped 0 articles from news
+2025-04-05 08:50:08,077 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 08:50:08,078 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 08:50:38,129 - standardmedia_scraper - INFO - Found 0 articles in business
+2025-04-05 08:50:38,130 - standardmedia_scraper - INFO - Scraped 0 articles from business
+2025-04-05 08:50:43,144 - standardmedia_scraper - INFO - Scraping category: sports from https://www.standardmedia.co.ke/sports
+2025-04-05 08:50:43,145 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/sports
+2025-04-05 08:50:50,130 - standardmedia_scraper - INFO - Found 0 articles in sports
+2025-04-05 08:50:50,131 - standardmedia_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 08:50:55,143 - standardmedia_scraper - INFO - Scraping category: opinion from https://www.standardmedia.co.ke/opinion
+2025-04-05 08:50:55,143 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/opinion
+2025-04-05 08:51:08,565 - standardmedia_scraper - INFO - Found 0 articles in opinion
+2025-04-05 08:51:08,565 - standardmedia_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 08:51:13,577 - standardmedia_scraper - INFO - Scraping category: entertainment from https://www.standardmedia.co.ke/entertainment
+2025-04-05 08:51:13,580 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/entertainment
+2025-04-05 08:51:21,330 - standardmedia_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 08:51:21,330 - standardmedia_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 08:51:26,338 - standardmedia_scraper - INFO - Total articles scraped: 0
+2025-04-05 08:51:26,338 - standardmedia_scraper - ERROR - Scraping failed for standardmedia
+2025-04-05 08:51:26,920 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 08:51:26,921 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 09:50:28,119 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 09:50:28,128 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 09:50:28,130 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 09:50:28,130 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 09:50:28,130 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 09:51:07,201 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 09:51:07,201 - standardmedia_scraper - INFO - Scraped 0 articles from news
+2025-04-05 09:51:12,221 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 09:51:12,222 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 09:51:57,221 - standardmedia_scraper - INFO - Found 0 articles in business
+2025-04-05 09:51:57,222 - standardmedia_scraper - INFO - Scraped 0 articles from business
+2025-04-05 09:52:02,235 - standardmedia_scraper - INFO - Scraping category: sports from https://www.standardmedia.co.ke/sports
+2025-04-05 09:52:02,235 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/sports
+2025-04-05 09:52:14,560 - standardmedia_scraper - INFO - Found 0 articles in sports
+2025-04-05 09:52:14,560 - standardmedia_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 09:52:19,572 - standardmedia_scraper - INFO - Scraping category: opinion from https://www.standardmedia.co.ke/opinion
+2025-04-05 09:52:19,573 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/opinion
+2025-04-05 09:52:30,914 - standardmedia_scraper - INFO - Found 0 articles in opinion
+2025-04-05 09:52:30,914 - standardmedia_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 09:52:35,927 - standardmedia_scraper - INFO - Scraping category: entertainment from https://www.standardmedia.co.ke/entertainment
+2025-04-05 09:52:35,928 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/entertainment
+2025-04-05 09:52:50,413 - standardmedia_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 09:52:50,413 - standardmedia_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 09:52:55,425 - standardmedia_scraper - INFO - Total articles scraped: 0
+2025-04-05 09:52:55,426 - standardmedia_scraper - ERROR - Scraping failed for standardmedia
+2025-04-05 09:52:55,946 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 09:52:55,946 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 10:12:59,922 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 10:12:59,939 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 10:12:59,940 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 10:12:59,940 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 10:12:59,940 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 10:13:22,456 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 10:13:22,457 - standardmedia_scraper - INFO - Scraped 0 articles from news
+2025-04-05 10:13:27,463 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 10:13:27,464 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 10:14:00,343 - standardmedia_scraper - INFO - Found 0 articles in business
+2025-04-05 10:14:00,343 - standardmedia_scraper - INFO - Scraped 0 articles from business
+2025-04-05 10:14:05,358 - standardmedia_scraper - INFO - Scraping category: sports from https://www.standardmedia.co.ke/sports
+2025-04-05 10:14:05,359 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/sports
+2025-04-05 10:14:23,488 - standardmedia_scraper - INFO - Found 0 articles in sports
+2025-04-05 10:14:23,489 - standardmedia_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 10:14:28,504 - standardmedia_scraper - INFO - Scraping category: opinion from https://www.standardmedia.co.ke/opinion
+2025-04-05 10:14:28,505 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/opinion
+2025-04-05 10:14:35,233 - standardmedia_scraper - INFO - Found 0 articles in opinion
+2025-04-05 10:14:35,233 - standardmedia_scraper - INFO - Scraped 0 articles from opinion
+2025-04-05 10:14:40,249 - standardmedia_scraper - INFO - Scraping category: entertainment from https://www.standardmedia.co.ke/entertainment
+2025-04-05 10:14:40,249 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/entertainment
+2025-04-05 10:14:55,232 - standardmedia_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 10:14:55,232 - standardmedia_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 10:15:00,253 - standardmedia_scraper - INFO - ✅ Saved 0 articles to standardmedia_articles.csv
+2025-04-05 10:15:00,254 - standardmedia_scraper - INFO - Total articles scraped: 0
+2025-04-05 10:15:00,254 - standardmedia_scraper - ERROR - Scraping failed for standardmedia
+2025-04-05 10:15:00,672 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 10:15:00,672 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 10:33:08,141 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 10:33:08,148 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 10:33:08,148 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 10:33:08,148 - standardmedia_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 10:33:08,148 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 10:33:08,149 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 10:33:54,299 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 10:33:54,299 - standardmedia_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 10:33:59,317 - standardmedia_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 10:33:59,317 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 10:33:59,317 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 10:34:21,604 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 10:34:21,605 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 11:11:33,699 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 11:11:33,705 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 11:11:33,705 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 11:11:33,706 - standardmedia_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 11:11:33,706 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 11:11:33,706 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 11:12:11,641 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 11:12:11,642 - standardmedia_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 11:12:16,656 - standardmedia_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 11:12:16,657 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 11:12:16,657 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 11:12:22,561 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 11:12:22,562 - standardmedia_scraper - INFO - Database connection closed
+2025-04-05 11:20:07,518 - standardmedia_scraper - INFO - WebDriver initialized for standardmedia
+2025-04-05 11:20:07,523 - standardmedia_scraper - INFO - Database connection established
+2025-04-05 11:20:07,523 - standardmedia_scraper - INFO - Starting scraping for standardmedia
+2025-04-05 11:20:07,523 - standardmedia_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 11:20:07,523 - standardmedia_scraper - INFO - Scraping category: news from https://www.standardmedia.co.ke/news
+2025-04-05 11:20:07,523 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/news
+2025-04-05 11:20:33,498 - standardmedia_scraper - INFO - Found 0 articles in news
+2025-04-05 11:20:33,498 - standardmedia_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 11:20:38,513 - standardmedia_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 11:20:38,514 - standardmedia_scraper - INFO - Scraping category: business from https://www.standardmedia.co.ke/business
+2025-04-05 11:20:38,514 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/business
+2025-04-05 11:21:18,895 - standardmedia_scraper - INFO - Found 0 articles in business
+2025-04-05 11:21:18,903 - standardmedia_scraper - INFO - Scraped 0 articles from business, 0 total so far
+2025-04-05 11:21:23,918 - standardmedia_scraper - INFO - Aiming to scrape up to 10 articles from sports
+2025-04-05 11:21:23,919 - standardmedia_scraper - INFO - Scraping category: sports from https://www.standardmedia.co.ke/sports
+2025-04-05 11:21:23,919 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/sports
+2025-04-05 11:21:46,025 - standardmedia_scraper - INFO - Found 0 articles in sports
+2025-04-05 11:21:46,025 - standardmedia_scraper - INFO - Scraped 0 articles from sports, 0 total so far
+2025-04-05 11:21:51,041 - standardmedia_scraper - INFO - Aiming to scrape up to 15 articles from opinion
+2025-04-05 11:21:51,042 - standardmedia_scraper - INFO - Scraping category: opinion from https://www.standardmedia.co.ke/opinion
+2025-04-05 11:21:51,042 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/opinion
+2025-04-05 11:22:17,068 - standardmedia_scraper - INFO - Found 0 articles in opinion
+2025-04-05 11:22:17,068 - standardmedia_scraper - INFO - Scraped 0 articles from opinion, 0 total so far
+2025-04-05 11:22:22,083 - standardmedia_scraper - INFO - Aiming to scrape up to 30 articles from entertainment
+2025-04-05 11:22:22,084 - standardmedia_scraper - INFO - Scraping category: entertainment from https://www.standardmedia.co.ke/entertainment
+2025-04-05 11:22:22,085 - standardmedia_scraper - INFO - Loading URL: https://www.standardmedia.co.ke/entertainment
+2025-04-05 11:22:30,308 - standardmedia_scraper - INFO - Found 0 articles in entertainment
+2025-04-05 11:22:30,308 - standardmedia_scraper - INFO - Scraped 0 articles from entertainment, 0 total so far
+2025-04-05 11:22:35,320 - standardmedia_scraper - INFO - Total articles scraped: 0 (max limit: 30)
+2025-04-05 11:22:35,330 - standardmedia_scraper - INFO - ✅ Saved 0 articles to standardmedia_articles.csv
+2025-04-05 11:22:35,331 - standardmedia_scraper - ERROR - Scraping failed for standardmedia
+2025-04-05 11:22:35,763 - standardmedia_scraper - INFO - WebDriver closed
+2025-04-05 11:22:35,764 - standardmedia_scraper - INFO - Database connection closed
