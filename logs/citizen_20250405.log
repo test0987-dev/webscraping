@@ -410,3 +410,191 @@
 2025-04-05 11:18:52,037 - citizen_scraper - INFO - Scraping completed successfully for citizen
 2025-04-05 11:18:52,666 - citizen_scraper - INFO - WebDriver closed
 2025-04-05 11:18:52,667 - citizen_scraper - INFO - Database connection closed
+2025-04-05 22:26:35,463 - citizen_scraper - INFO - WebDriver initialized for citizen
+2025-04-05 22:26:35,779 - citizen_scraper - INFO - Database connection established
+2025-04-05 22:26:35,779 - citizen_scraper - INFO - Starting scraping for citizen
+2025-04-05 22:26:35,779 - citizen_scraper - INFO - Scraping category: news from https://www.citizen.digital/news
+2025-04-05 22:26:35,779 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news
+2025-04-05 22:27:22,759 - citizen_scraper - INFO - Found 6 articles in news
+2025-04-05 22:27:23,323 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/safaricom-to-conduct-scheduled-system-maintenance-on-april-7-n360506
+2025-04-05 22:29:33,470 - citizen_scraper - ERROR - Error loading URL https://www.citizen.digital/news/safaricom-to-conduct-scheduled-system-maintenance-on-april-7-n360506: HTTPConnectionPool(host='localhost', port=37201): Read timed out. (read timeout=120)
+2025-04-05 22:29:33,608 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/kenya-extends-oil-supply-agreement-with-three-gulf-companies-n360501
+2025-04-05 22:30:00,433 - citizen_scraper - INFO - Article saved: Kenya extends oil supply agreement with three Gulf companies
+2025-04-05 22:30:02,491 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/the-impact-of-trumps-tariffs-on-kenya-and-beyond-n360503
+2025-04-05 22:30:21,314 - citizen_scraper - INFO - Article saved: The impact of Trump's tariffs on Kenya and beyond
+2025-04-05 22:30:23,334 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/uk-police-charge-comedian-russell-brand-with-rape-sexual-assaults-n360505
+2025-04-05 22:30:39,040 - citizen_scraper - INFO - Article saved: UK police charge comedian Russell Brand with rape, sexual assaults
+2025-04-05 22:30:41,054 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/trump-opponents-ready-to-take-to-streets-with-nationwide-protests-n360502
+2025-04-05 22:31:00,713 - citizen_scraper - INFO - Article saved: Trump opponents ready to take to streets with nationwide protests
+2025-04-05 22:31:02,745 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/trumps-highest-tariff-will-kill-tiny-african-kingdom-of-lesotho-economist-says-n360500
+2025-04-05 22:31:15,326 - citizen_scraper - INFO - WebDriver initialized for citizen
+2025-04-05 22:31:15,649 - citizen_scraper - INFO - Database connection established
+2025-04-05 22:31:15,650 - citizen_scraper - INFO - Starting scraping for citizen
+2025-04-05 22:31:15,650 - citizen_scraper - INFO - Scraping category: news from https://www.citizen.digital/news
+2025-04-05 22:31:15,650 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news
+2025-04-05 22:31:23,702 - citizen_scraper - INFO - Article saved: Trump's highest tariff will kill tiny African kingdom of Lesotho, economist says
+2025-04-05 22:31:25,717 - citizen_scraper - INFO - Scraped 5 articles from news
+2025-04-05 22:31:30,740 - citizen_scraper - INFO - Scraping category: business from https://www.citizen.digital/business
+2025-04-05 22:31:30,743 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/business
+2025-04-05 22:31:53,383 - citizen_scraper - INFO - Found 6 articles in business
+2025-04-05 22:31:53,385 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/equity-group-records-12-jump-in-net-earnings-to-ksh488-billion-n359993
+2025-04-05 22:31:53,386 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/huawei-says-profits-fell-28-last-year-n360189
+2025-04-05 22:31:53,387 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/family-bank-profit-after-tax-surges-by-38-in-2024-n360089
+2025-04-05 22:31:53,388 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/cic-insurance-group-plc-declares-profit-before-tax-of-ksh399-billion-being-a-57-percent-in-its-2024-full-year-performance-n360095
+2025-04-05 22:31:53,389 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/primark-boss-resigns-after-inappropriate-behaviour-allegation-n360169
+2025-04-05 22:31:53,390 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/business/kra-announces-plans-to-simplify-paye-returns-for-all-employers-n360296
+2025-04-05 22:32:00,598 - citizen_scraper - INFO - Found 6 articles in news
+2025-04-05 22:32:00,636 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/trumps-highest-tariff-will-kill-tiny-african-kingdom-of-lesotho-economist-says-n360500
+2025-04-05 22:32:00,667 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/uk-police-charge-comedian-russell-brand-with-rape-sexual-assaults-n360505
+2025-04-05 22:32:00,684 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news/safaricom-to-conduct-scheduled-system-maintenance-on-april-7-n360506
+2025-04-05 22:32:11,541 - citizen_scraper - INFO - Article saved: Safaricom to conduct scheduled system maintenance on Monday
+2025-04-05 22:32:13,561 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/kenya-extends-oil-supply-agreement-with-three-gulf-companies-n360501
+2025-04-05 22:32:13,568 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/trump-opponents-ready-to-take-to-streets-with-nationwide-protests-n360502
+2025-04-05 22:32:13,569 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/the-impact-of-trumps-tariffs-on-kenya-and-beyond-n360503
+2025-04-05 22:32:13,569 - citizen_scraper - INFO - Scraped 1 articles from news
+2025-04-05 22:32:18,583 - citizen_scraper - INFO - Scraping category: business from https://www.citizen.digital/business
+2025-04-05 22:32:18,583 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/business
+2025-04-05 22:32:26,253 - citizen_scraper - INFO - Article saved: KRA announces plans to simplify PAYE returns for employers
+2025-04-05 22:32:28,266 - citizen_scraper - INFO - Scraped 1 articles from business
+2025-04-05 22:32:32,315 - citizen_scraper - INFO - Found 6 articles in business
+2025-04-05 22:32:32,316 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/primark-boss-resigns-after-inappropriate-behaviour-allegation-n360169
+2025-04-05 22:32:32,317 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/family-bank-profit-after-tax-surges-by-38-in-2024-n360089
+2025-04-05 22:32:32,318 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/kra-announces-plans-to-simplify-paye-returns-for-all-employers-n360296
+2025-04-05 22:32:32,319 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/huawei-says-profits-fell-28-last-year-n360189
+2025-04-05 22:32:32,319 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/cic-insurance-group-plc-declares-profit-before-tax-of-ksh399-billion-being-a-57-percent-in-its-2024-full-year-performance-n360095
+2025-04-05 22:32:32,320 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/equity-group-records-12-jump-in-net-earnings-to-ksh488-billion-n359993
+2025-04-05 22:32:32,321 - citizen_scraper - INFO - Scraped 0 articles from business
+2025-04-05 22:32:33,280 - citizen_scraper - INFO - Scraping category: sports from https://www.citizen.digital/sports
+2025-04-05 22:32:33,281 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports
+2025-04-05 22:32:37,329 - citizen_scraper - INFO - Scraping category: sports from https://www.citizen.digital/sports
+2025-04-05 22:32:37,330 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports
+2025-04-05 22:33:05,182 - citizen_scraper - INFO - Found 6 articles in sports
+2025-04-05 22:33:05,183 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/aps-bomet-miss-chance-to-top-log-after-draw-in-mombasa-n360511
+2025-04-05 22:33:22,572 - citizen_scraper - INFO - Article saved: APS Bomet miss chance to top log after draw in Mombasa
+2025-04-05 22:33:24,587 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/agnes-ngetich-second-as-moraa-falters-in-grand-slam-opener-n360488
+2025-04-05 22:33:30,143 - citizen_scraper - INFO - Found 6 articles in sports
+2025-04-05 22:33:30,145 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/arsenal-draw-at-everton-to-edge-liverpool-closer-to-title-n360504
+2025-04-05 22:33:45,922 - citizen_scraper - INFO - Article saved: Agnes Ng’etich second as Moraa falters in Grand Slam Opener
+2025-04-05 22:33:47,941 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/verstappen-snatches-special-pole-for-japan-gp-with-lap-record-n360490
+2025-04-05 22:33:51,574 - citizen_scraper - INFO - Article saved: Arsenal draw at Everton to edge Liverpool closer to title
+2025-04-05 22:33:53,591 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/verstappen-snatches-special-pole-for-japan-gp-with-lap-record-n360490
+2025-04-05 22:33:59,712 - citizen_scraper - INFO - Article saved: Verstappen snatches 'special' pole for Japan GP with lap record
+2025-04-05 22:34:01,731 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/arsenal-draw-at-everton-to-edge-liverpool-closer-to-title-n360504
+2025-04-05 22:34:01,736 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/keter-chepngeno-win-ak-track-and-field-meet-in-nakuru-n360513
+2025-04-05 22:34:11,689 - citizen_scraper - ERROR - Error saving article: 1062 (23000): Duplicate entry 'https://www.citizen.digital/sports/verstappen-snatches-special-p' for key 'citizen_articles.url'
+2025-04-05 22:34:13,696 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/aps-bomet-miss-chance-to-top-log-after-draw-in-mombasa-n360511
+2025-04-05 22:34:13,698 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/keter-chepngeno-win-ak-track-and-field-meet-in-nakuru-n360513
+2025-04-05 22:34:16,705 - citizen_scraper - INFO - Article saved: Keter, Chepngeno win AK track and field meet in Nakuru
+2025-04-05 22:34:18,724 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/germanys-mueller-to-leave-bayern-munich-after-25-years-n360489
+2025-04-05 22:34:23,896 - citizen_scraper - ERROR - Error saving article: 1062 (23000): Duplicate entry 'https://www.citizen.digital/sports/keter-chepngeno-win-ak-track-' for key 'citizen_articles.url'
+2025-04-05 22:34:25,900 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports/germanys-mueller-to-leave-bayern-munich-after-25-years-n360489
+2025-04-05 22:34:38,086 - citizen_scraper - INFO - Article saved: Germany's Mueller to leave Bayern Munich after 25 years
+2025-04-05 22:34:40,114 - citizen_scraper - INFO - Scraped 5 articles from sports
+2025-04-05 22:34:42,640 - citizen_scraper - ERROR - Error saving article: 1062 (23000): Duplicate entry 'https://www.citizen.digital/sports/germanys-mueller-to-leave-bay' for key 'citizen_articles.url'
+2025-04-05 22:34:44,644 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/agnes-ngetich-second-as-moraa-falters-in-grand-slam-opener-n360488
+2025-04-05 22:34:44,644 - citizen_scraper - INFO - Scraped 1 articles from sports
+2025-04-05 22:34:45,139 - citizen_scraper - INFO - Scraping category: lifestyle from https://www.citizen.digital/lifestyle
+2025-04-05 22:34:45,139 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/lifestyle
+2025-04-05 22:34:49,658 - citizen_scraper - INFO - Scraping category: lifestyle from https://www.citizen.digital/lifestyle
+2025-04-05 22:34:49,658 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/lifestyle
+2025-04-05 22:35:02,718 - citizen_scraper - INFO - Found 6 articles in lifestyle
+2025-04-05 22:35:02,724 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/gen-z-chamas-the-digital-evolution-of-kenyas-traditional-savings-groups-n359999
+2025-04-05 22:35:02,728 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/the-absent-father-effect-why-some-women-seek-relationships-with-older-men-n359995
+2025-04-05 22:35:02,734 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/us-fda-approves-first-treatment-for-rare-genetic-disorder-prader-willi-syndrome-n359953
+2025-04-05 22:35:02,737 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/morning-after-pill-to-be-made-free-in-england-pharmacies-n360138
+2025-04-05 22:35:02,739 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered-n360102
+2025-04-05 22:35:02,741 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/hope-beyond-diagnosis-the-journey-of-a-parent-with-a-cerebral-palsy-child-n359902
+2025-04-05 22:35:02,741 - citizen_scraper - INFO - Scraped 0 articles from lifestyle
+2025-04-05 22:35:07,762 - citizen_scraper - INFO - Scraping category: entertainment from https://www.citizen.digital/entertainment
+2025-04-05 22:35:07,763 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/entertainment
+2025-04-05 22:35:21,150 - citizen_scraper - INFO - Found 6 articles in entertainment
+2025-04-05 22:35:21,156 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/heva-fund-unveils-ksh647m-investment-to-offer-loans-to-kenyan-creatives-n359087
+2025-04-05 22:35:21,158 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/vip-rooftop-inside-notorious-river-road-party-den-where-jaba-sweat-and-dance-moves-blend-n359112
+2025-04-05 22:35:21,159 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/pat-black-kenyan-american-rapper-who-won-the-games-respect-n359501
+2025-04-05 22:35:21,161 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/i-namanga-popular-signage-turns-ugly-after-being-poorly-duplicated-in-almost-all-kenyan-towns-n359233
+2025-04-05 22:35:21,162 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/el-chapo-ruto-acquires-cheeky-new-nickname-as-kenyans-blast-his-one-million-chapatis-promise-n359051
+2025-04-05 22:35:21,164 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/kicc-to-unveil-ksh100m-dancing-fountains-to-enhance-tourism-boost-nairobis-global-appeal-n359190
+2025-04-05 22:35:21,164 - citizen_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 22:35:22,998 - citizen_scraper - INFO - Found 6 articles in lifestyle
+2025-04-05 22:35:23,001 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/the-absent-father-effect-why-some-women-seek-relationships-with-older-men-n359995
+2025-04-05 22:35:23,004 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/morning-after-pill-to-be-made-free-in-england-pharmacies-n360138
+2025-04-05 22:35:23,007 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/hope-beyond-diagnosis-the-journey-of-a-parent-with-a-cerebral-palsy-child-n359902
+2025-04-05 22:35:23,010 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered-n360102
+2025-04-05 22:35:23,012 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/gen-z-chamas-the-digital-evolution-of-kenyas-traditional-savings-groups-n359999
+2025-04-05 22:35:23,016 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/us-fda-approves-first-treatment-for-rare-genetic-disorder-prader-willi-syndrome-n359953
+2025-04-05 22:35:23,017 - citizen_scraper - INFO - Scraped 0 articles from lifestyle
+2025-04-05 22:35:26,177 - citizen_scraper - INFO - Total articles scraped: 6
+2025-04-05 22:35:26,179 - citizen_scraper - INFO - Scraping completed successfully for citizen
+2025-04-05 22:35:27,865 - citizen_scraper - INFO - WebDriver closed
+2025-04-05 22:35:27,884 - citizen_scraper - INFO - Database conn closed
+2025-04-05 22:35:28,028 - citizen_scraper - INFO - Scraping category: entertainment from https://www.citizen.digital/entertainment
+2025-04-05 22:35:28,029 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/entertainment
+2025-04-05 22:36:01,561 - citizen_scraper - INFO - Found 6 articles in entertainment
+2025-04-05 22:36:01,563 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/i-namanga-popular-signage-turns-ugly-after-being-poorly-duplicated-in-almost-all-kenyan-towns-n359233
+2025-04-05 22:36:01,566 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/pat-black-kenyan-american-rapper-who-won-the-games-respect-n359501
+2025-04-05 22:36:01,570 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/heva-fund-unveils-ksh647m-investment-to-offer-loans-to-kenyan-creatives-n359087
+2025-04-05 22:36:01,573 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/el-chapo-ruto-acquires-cheeky-new-nickname-as-kenyans-blast-his-one-million-chapatis-promise-n359051
+2025-04-05 22:36:01,576 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/vip-rooftop-inside-notorious-river-road-party-den-where-jaba-sweat-and-dance-moves-blend-n359112
+2025-04-05 22:36:01,577 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/kicc-to-unveil-ksh100m-dancing-fountains-to-enhance-tourism-boost-nairobis-global-appeal-n359190
+2025-04-05 22:36:01,578 - citizen_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 22:36:06,595 - citizen_scraper - INFO - Total articles scraped: 7
+2025-04-05 22:36:06,595 - citizen_scraper - INFO - Scraping completed successfully for citizen
+2025-04-05 22:36:09,986 - citizen_scraper - INFO - WebDriver closed
+2025-04-05 22:36:10,047 - citizen_scraper - INFO - Database conn closed
+2025-04-05 22:40:49,448 - citizen_scraper - INFO - WebDriver initialized for citizen
+2025-04-05 22:40:49,641 - citizen_scraper - INFO - Database connection established
+2025-04-05 22:40:49,641 - citizen_scraper - INFO - Starting scraping for citizen
+2025-04-05 22:40:49,642 - citizen_scraper - INFO - Scraping category: news from https://www.citizen.digital/news
+2025-04-05 22:40:49,642 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/news
+2025-04-05 22:41:32,689 - citizen_scraper - INFO - Found 6 articles in news
+2025-04-05 22:41:32,700 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/kenya-extends-oil-supply-agreement-with-three-gulf-companies-n360501
+2025-04-05 22:41:32,706 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/safaricom-to-conduct-scheduled-system-maintenance-on-april-7-n360506
+2025-04-05 22:41:32,712 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/trumps-highest-tariff-will-kill-tiny-african-kingdom-of-lesotho-economist-says-n360500
+2025-04-05 22:41:32,718 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/trump-opponents-ready-to-take-to-streets-with-nationwide-protests-n360502
+2025-04-05 22:41:32,722 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/uk-police-charge-comedian-russell-brand-with-rape-sexual-assaults-n360505
+2025-04-05 22:41:32,730 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/news/the-impact-of-trumps-tariffs-on-kenya-and-beyond-n360503
+2025-04-05 22:41:32,731 - citizen_scraper - INFO - Scraped 0 articles from news
+2025-04-05 22:41:37,769 - citizen_scraper - INFO - Scraping category: business from https://www.citizen.digital/business
+2025-04-05 22:41:37,769 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/business
+2025-04-05 22:41:56,729 - citizen_scraper - INFO - Found 6 articles in business
+2025-04-05 22:41:56,737 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/cic-insurance-group-plc-declares-profit-before-tax-of-ksh399-billion-being-a-57-percent-in-its-2024-full-year-performance-n360095
+2025-04-05 22:41:56,742 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/huawei-says-profits-fell-28-last-year-n360189
+2025-04-05 22:41:56,745 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/kra-announces-plans-to-simplify-paye-returns-for-all-employers-n360296
+2025-04-05 22:41:56,752 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/family-bank-profit-after-tax-surges-by-38-in-2024-n360089
+2025-04-05 22:41:56,759 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/primark-boss-resigns-after-inappropriate-behaviour-allegation-n360169
+2025-04-05 22:41:56,765 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/business/equity-group-records-12-jump-in-net-earnings-to-ksh488-billion-n359993
+2025-04-05 22:41:56,765 - citizen_scraper - INFO - Scraped 0 articles from business
+2025-04-05 22:42:01,794 - citizen_scraper - INFO - Scraping category: sports from https://www.citizen.digital/sports
+2025-04-05 22:42:01,796 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/sports
+2025-04-05 22:42:39,358 - citizen_scraper - INFO - Found 6 articles in sports
+2025-04-05 22:42:39,363 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/germanys-mueller-to-leave-bayern-munich-after-25-years-n360489
+2025-04-05 22:42:39,365 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/arsenal-draw-at-everton-to-edge-liverpool-closer-to-title-n360504
+2025-04-05 22:42:39,367 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/keter-chepngeno-win-ak-track-and-field-meet-in-nakuru-n360513
+2025-04-05 22:42:39,369 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/agnes-ngetich-second-as-moraa-falters-in-grand-slam-opener-n360488
+2025-04-05 22:42:39,374 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/verstappen-snatches-special-pole-for-japan-gp-with-lap-record-n360490
+2025-04-05 22:42:39,377 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/sports/aps-bomet-miss-chance-to-top-log-after-draw-in-mombasa-n360511
+2025-04-05 22:42:39,377 - citizen_scraper - INFO - Scraped 0 articles from sports
+2025-04-05 22:42:44,401 - citizen_scraper - INFO - Scraping category: lifestyle from https://www.citizen.digital/lifestyle
+2025-04-05 22:42:44,403 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/lifestyle
+2025-04-05 22:43:02,136 - citizen_scraper - INFO - Found 6 articles in lifestyle
+2025-04-05 22:43:02,144 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/the-absent-father-effect-why-some-women-seek-relationships-with-older-men-n359995
+2025-04-05 22:43:02,148 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/gen-z-chamas-the-digital-evolution-of-kenyas-traditional-savings-groups-n359999
+2025-04-05 22:43:02,153 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/morning-after-pill-to-be-made-free-in-england-pharmacies-n360138
+2025-04-05 22:43:02,155 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered-n360102
+2025-04-05 22:43:02,162 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/us-fda-approves-first-treatment-for-rare-genetic-disorder-prader-willi-syndrome-n359953
+2025-04-05 22:43:02,169 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/lifestyle/hope-beyond-diagnosis-the-journey-of-a-parent-with-a-cerebral-palsy-child-n359902
+2025-04-05 22:43:02,169 - citizen_scraper - INFO - Scraped 0 articles from lifestyle
+2025-04-05 22:43:07,201 - citizen_scraper - INFO - Scraping category: entertainment from https://www.citizen.digital/entertainment
+2025-04-05 22:43:07,201 - citizen_scraper - INFO - Loading URL: https://www.citizen.digital/entertainment
+2025-04-05 22:43:19,621 - citizen_scraper - INFO - Found 6 articles in entertainment
+2025-04-05 22:43:19,626 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/kicc-to-unveil-ksh100m-dancing-fountains-to-enhance-tourism-boost-nairobis-global-appeal-n359190
+2025-04-05 22:43:19,628 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/i-namanga-popular-signage-turns-ugly-after-being-poorly-duplicated-in-almost-all-kenyan-towns-n359233
+2025-04-05 22:43:19,635 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/el-chapo-ruto-acquires-cheeky-new-nickname-as-kenyans-blast-his-one-million-chapatis-promise-n359051
+2025-04-05 22:43:19,640 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/vip-rooftop-inside-notorious-river-road-party-den-where-jaba-sweat-and-dance-moves-blend-n359112
+2025-04-05 22:43:19,647 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/heva-fund-unveils-ksh647m-investment-to-offer-loans-to-kenyan-creatives-n359087
+2025-04-05 22:43:19,651 - citizen_scraper - INFO - Article already exists: https://www.citizen.digital/entertainment/pat-black-kenyan-american-rapper-who-won-the-games-respect-n359501
+2025-04-05 22:43:19,651 - citizen_scraper - INFO - Scraped 0 articles from entertainment
+2025-04-05 22:43:24,667 - citizen_scraper - INFO - Total articles scraped: 0
+2025-04-05 22:43:24,667 - citizen_scraper - ERROR - Scraping failed for citizen
+2025-04-05 22:43:25,523 - citizen_scraper - INFO - WebDriver closed
+2025-04-05 22:43:25,544 - citizen_scraper - INFO - Database conn closed

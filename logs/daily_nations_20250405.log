@@ -229,3 +229,99 @@
 2025-04-05 11:20:03,504 - daily_nations_scraper - ERROR - Scraping failed for daily_nations
 2025-04-05 11:20:04,317 - daily_nations_scraper - INFO - WebDriver closed
 2025-04-05 11:20:04,319 - daily_nations_scraper - INFO - Database connection closed
+2025-04-05 22:35:37,869 - daily_nations_scraper - INFO - WebDriver initialized for daily_nations
+2025-04-05 22:35:38,212 - daily_nations_scraper - INFO - Database connection established
+2025-04-05 22:35:38,213 - daily_nations_scraper - INFO - Starting scraping for daily_nations
+2025-04-05 22:35:38,213 - daily_nations_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 22:35:38,213 - daily_nations_scraper - INFO - Scraping category: news from https://nation.africa/news
+2025-04-05 22:35:38,214 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/news
+2025-04-05 22:36:09,215 - daily_nations_scraper - INFO - Found 0 articles in news
+2025-04-05 22:36:09,215 - daily_nations_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 22:36:14,244 - daily_nations_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 22:36:14,245 - daily_nations_scraper - INFO - Scraping category: business from https://nation.africa/business
+2025-04-05 22:36:14,245 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/business
+2025-04-05 22:36:19,000 - daily_nations_scraper - INFO - WebDriver initialized for daily_nations
+2025-04-05 22:36:19,167 - daily_nations_scraper - INFO - Database connection established
+2025-04-05 22:36:19,168 - daily_nations_scraper - INFO - Starting scraping for daily_nations
+2025-04-05 22:36:19,168 - daily_nations_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 22:36:19,168 - daily_nations_scraper - INFO - Scraping category: news from https://nation.africa/news
+2025-04-05 22:36:19,168 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/news
+2025-04-05 22:36:22,590 - daily_nations_scraper - INFO - Found 0 articles in business
+2025-04-05 22:36:22,599 - daily_nations_scraper - INFO - Scraped 0 articles from business, 0 total so far
+2025-04-05 22:36:27,678 - daily_nations_scraper - INFO - Aiming to scrape up to 10 articles from sports
+2025-04-05 22:36:27,682 - daily_nations_scraper - INFO - Scraping category: sports from https://nation.africa/sports
+2025-04-05 22:36:27,682 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/sports
+2025-04-05 22:36:34,366 - daily_nations_scraper - INFO - Found 0 articles in sports
+2025-04-05 22:36:34,367 - daily_nations_scraper - INFO - Scraped 0 articles from sports, 0 total so far
+2025-04-05 22:36:39,387 - daily_nations_scraper - INFO - Aiming to scrape up to 15 articles from opinion
+2025-04-05 22:36:39,387 - daily_nations_scraper - INFO - Scraping category: opinion from https://nation.africa/opinion
+2025-04-05 22:36:39,388 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/opinion
+2025-04-05 22:36:45,676 - daily_nations_scraper - INFO - Found 0 articles in news
+2025-04-05 22:36:45,677 - daily_nations_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 22:36:45,808 - daily_nations_scraper - INFO - Found 0 articles in opinion
+2025-04-05 22:36:45,809 - daily_nations_scraper - INFO - Scraped 0 articles from opinion, 0 total so far
+2025-04-05 22:36:50,709 - daily_nations_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 22:36:50,710 - daily_nations_scraper - INFO - Scraping category: business from https://nation.africa/business
+2025-04-05 22:36:50,712 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/business
+2025-04-05 22:36:50,817 - daily_nations_scraper - INFO - Aiming to scrape up to 30 articles from lifestyle
+2025-04-05 22:36:50,817 - daily_nations_scraper - INFO - Scraping category: lifestyle from https://nation.africa/lifestyle
+2025-04-05 22:36:50,817 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/lifestyle
+2025-04-05 22:36:57,198 - daily_nations_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 22:36:57,199 - daily_nations_scraper - INFO - Scraped 0 articles from lifestyle, 0 total so far
+2025-04-05 22:37:01,457 - daily_nations_scraper - INFO - Found 0 articles in business
+2025-04-05 22:37:01,458 - daily_nations_scraper - INFO - Scraped 0 articles from business, 0 total so far
+2025-04-05 22:37:02,218 - daily_nations_scraper - INFO - Total articles scraped: 0 (max limit: 30)
+2025-04-05 22:37:02,219 - daily_nations_scraper - ERROR - Scraping failed for daily_nations
+2025-04-05 22:37:03,564 - daily_nations_scraper - INFO - WebDriver closed
+2025-04-05 22:37:03,567 - daily_nations_scraper - INFO - Database conn closed
+2025-04-05 22:37:06,472 - daily_nations_scraper - INFO - Aiming to scrape up to 10 articles from sports
+2025-04-05 22:37:06,472 - daily_nations_scraper - INFO - Scraping category: sports from https://nation.africa/sports
+2025-04-05 22:37:06,472 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/sports
+2025-04-05 22:37:12,748 - daily_nations_scraper - INFO - Found 0 articles in sports
+2025-04-05 22:37:12,748 - daily_nations_scraper - INFO - Scraped 0 articles from sports, 0 total so far
+2025-04-05 22:37:17,764 - daily_nations_scraper - INFO - Aiming to scrape up to 15 articles from opinion
+2025-04-05 22:37:17,767 - daily_nations_scraper - INFO - Scraping category: opinion from https://nation.africa/opinion
+2025-04-05 22:37:17,767 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/opinion
+2025-04-05 22:37:24,249 - daily_nations_scraper - INFO - Found 0 articles in opinion
+2025-04-05 22:37:24,250 - daily_nations_scraper - INFO - Scraped 0 articles from opinion, 0 total so far
+2025-04-05 22:37:29,275 - daily_nations_scraper - INFO - Aiming to scrape up to 30 articles from lifestyle
+2025-04-05 22:37:29,275 - daily_nations_scraper - INFO - Scraping category: lifestyle from https://nation.africa/lifestyle
+2025-04-05 22:37:29,275 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/lifestyle
+2025-04-05 22:37:35,717 - daily_nations_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 22:37:35,718 - daily_nations_scraper - INFO - Scraped 0 articles from lifestyle, 0 total so far
+2025-04-05 22:37:40,730 - daily_nations_scraper - INFO - Total articles scraped: 0 (max limit: 30)
+2025-04-05 22:37:40,731 - daily_nations_scraper - ERROR - Scraping failed for daily_nations
+2025-04-05 22:37:42,312 - daily_nations_scraper - INFO - WebDriver closed
+2025-04-05 22:37:42,315 - daily_nations_scraper - INFO - Database conn closed
+2025-04-05 22:43:33,726 - daily_nations_scraper - INFO - WebDriver initialized for daily_nations
+2025-04-05 22:43:33,940 - daily_nations_scraper - INFO - Database connection established
+2025-04-05 22:43:33,941 - daily_nations_scraper - INFO - Starting scraping for daily_nations
+2025-04-05 22:43:33,942 - daily_nations_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 22:43:33,942 - daily_nations_scraper - INFO - Scraping category: news from https://nation.africa/news
+2025-04-05 22:43:33,943 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/news
+2025-04-05 22:43:55,148 - daily_nations_scraper - INFO - Found 0 articles in news
+2025-04-05 22:43:55,148 - daily_nations_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 22:44:00,173 - daily_nations_scraper - INFO - Aiming to scrape up to 7 articles from business
+2025-04-05 22:44:00,174 - daily_nations_scraper - INFO - Scraping category: business from https://nation.africa/business
+2025-04-05 22:44:00,175 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/business
+2025-04-05 22:44:09,077 - daily_nations_scraper - INFO - Found 0 articles in business
+2025-04-05 22:44:09,077 - daily_nations_scraper - INFO - Scraped 0 articles from business, 0 total so far
+2025-04-05 22:44:14,094 - daily_nations_scraper - INFO - Aiming to scrape up to 10 articles from sports
+2025-04-05 22:44:14,095 - daily_nations_scraper - INFO - Scraping category: sports from https://nation.africa/sports
+2025-04-05 22:44:14,095 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/sports
+2025-04-05 22:44:20,511 - daily_nations_scraper - INFO - Found 0 articles in sports
+2025-04-05 22:44:20,511 - daily_nations_scraper - INFO - Scraped 0 articles from sports, 0 total so far
+2025-04-05 22:44:25,535 - daily_nations_scraper - INFO - Aiming to scrape up to 15 articles from opinion
+2025-04-05 22:44:25,536 - daily_nations_scraper - INFO - Scraping category: opinion from https://nation.africa/opinion
+2025-04-05 22:44:25,536 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/opinion
+2025-04-05 22:44:31,885 - daily_nations_scraper - INFO - Found 0 articles in opinion
+2025-04-05 22:44:31,886 - daily_nations_scraper - INFO - Scraped 0 articles from opinion, 0 total so far
+2025-04-05 22:44:36,918 - daily_nations_scraper - INFO - Aiming to scrape up to 30 articles from lifestyle
+2025-04-05 22:44:36,919 - daily_nations_scraper - INFO - Scraping category: lifestyle from https://nation.africa/lifestyle
+2025-04-05 22:44:36,919 - daily_nations_scraper - INFO - Loading URL: https://nation.africa/lifestyle
+2025-04-05 22:44:43,267 - daily_nations_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 22:44:43,268 - daily_nations_scraper - INFO - Scraped 0 articles from lifestyle, 0 total so far
+2025-04-05 22:44:48,286 - daily_nations_scraper - INFO - Total articles scraped: 0 (max limit: 30)
+2025-04-05 22:44:48,287 - daily_nations_scraper - ERROR - Scraping failed for daily_nations
+2025-04-05 22:44:50,059 - daily_nations_scraper - INFO - WebDriver closed
+2025-04-05 22:44:50,063 - daily_nations_scraper - INFO - Database conn closed

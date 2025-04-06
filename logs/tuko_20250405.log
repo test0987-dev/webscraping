@@ -439,3 +439,121 @@
 2025-04-05 11:29:19,126 - tuko_scraper - INFO - Scraping completed successfully for tuko
 2025-04-05 11:29:19,556 - tuko_scraper - INFO - WebDriver closed
 2025-04-05 11:29:19,556 - tuko_scraper - INFO - Database connection closed
+2025-04-05 22:56:52,145 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 22:56:52,208 - tuko_scraper - INFO - Database connection established
+2025-04-05 22:56:52,208 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 22:56:52,208 - tuko_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 22:56:52,208 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 22:56:52,209 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 22:57:10,170 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 22:57:10,171 - tuko_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 22:57:15,179 - tuko_scraper - INFO - Aiming to scrape up to 7 articles from entertainment
+2025-04-05 22:57:15,179 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 22:57:15,180 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 22:57:32,658 - tuko_scraper - INFO - Found 16 articles in entertainment
+2025-04-05 22:57:32,681 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584732-trans-nzoia-21-year-woman-dies-delivery-alleged-medical-negligence/
+2025-04-05 22:57:32,683 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584717-drama-section-embu-youth-shut-william-ruto-tour-uongo-uongo/
+2025-04-05 22:57:49,744 - tuko_scraper - INFO - Extracted content from article element, length: 3501
+2025-04-05 22:57:49,781 - tuko_scraper - INFO - Article saved: Drama as Hostile Embu Residents Confront William Ruto During Tour: "Uongo, Uongo"
+2025-04-05 22:57:51,794 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584709-mzungu-man-viral-eating-ugali-chapati-dances-matopare-dont/
+2025-04-05 22:58:01,966 - tuko_scraper - INFO - Extracted content from article element, length: 3133
+2025-04-05 22:58:02,124 - tuko_scraper - INFO - Article saved: Mzungu Man Goes Viral after Eating Ugali with Chapati, Dances to Matopare: “We Don’t Do That”
+2025-04-05 22:58:04,145 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/219311-sonkos-secret-love-life-revealed.html
+2025-04-05 22:58:13,656 - tuko_scraper - INFO - Extracted content from article element, length: 2738
+2025-04-05 22:58:13,700 - tuko_scraper - INFO - Article saved: Mike Sonko's history with women and children sired
+2025-04-05 22:58:15,713 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/football/584755-man-united-man-city-gary-neville-jamie-carragher-predict-manchester-derby/
+2025-04-05 22:58:23,353 - tuko_scraper - INFO - Extracted content from article element, length: 2852
+2025-04-05 22:58:23,375 - tuko_scraper - INFO - Article saved: Man United vs Man City: Gary Neville and Jamie Carragher Predict Manchester Derby
+2025-04-05 22:58:25,388 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/584750-siaya-woman-asked-jalango-send-ksh-1k-hubby-confirms-gave-money/
+2025-04-05 22:58:33,667 - tuko_scraper - INFO - Extracted content from article element, length: 2758
+2025-04-05 22:58:33,764 - tuko_scraper - INFO - Article saved: Siaya Woman Who Asked Jalang'o to Send KSh 1k to Hubby Confirms He Gave Her Money
+2025-04-05 22:58:35,780 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/relationships/584673-bomet-murder-suspect-rachealine-ruttos-killing-nabbed/
+2025-04-05 22:58:43,268 - tuko_scraper - INFO - Extracted content from article element, length: 3228
+2025-04-05 22:58:43,287 - tuko_scraper - INFO - Article saved: Rachealine Rutto: Murder Suspect Arrested in Brutal Killing of 45-Year-Old Bomet Woman
+2025-04-05 22:58:45,295 - tuko_scraper - INFO - Scraped 6 articles from entertainment, 6 total so far
+2025-04-05 22:58:50,308 - tuko_scraper - INFO - Aiming to scrape up to 8 articles from politics
+2025-04-05 22:58:50,309 - tuko_scraper - INFO - Scraping category: politics from https://www.tuko.co.ke/politics
+2025-04-05 22:58:50,309 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics
+2025-04-05 22:58:58,037 - tuko_scraper - INFO - Found 17 articles in politics
+2025-04-05 22:58:58,038 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/kenya/counties/584756-14-mugoiri-girls-students-confirmed-safe-scary-accident-glory-god/
+2025-04-05 22:59:05,066 - tuko_scraper - INFO - Extracted content from article element, length: 3374
+2025-04-05 22:59:05,094 - tuko_scraper - INFO - Article saved: 14 Mugoiri Girls Students Confirmed Safe after Scary Accident: "Glory to God"
+2025-04-05 22:59:07,104 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584766-exclusive-lenny-speaks-githurai-hit-song-heartbreak-dads-loss/
+2025-04-05 22:59:15,002 - tuko_scraper - INFO - Extracted content from article element, length: 2604
+2025-04-05 22:59:15,020 - tuko_scraper - INFO - Article saved: Exclusive: Mr Lenny Speaks on Githurai Hit Song, Heartbreak after Dad’s Loss
+2025-04-05 22:59:17,028 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/business-economy/584712-vital-european-defence-startups-facing-hurdles/
+2025-04-05 22:59:17,036 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584725-pastor-nganga-lectures-woman-hairstyle-disclosing-hubby-dumped-her/
+2025-04-05 22:59:25,491 - tuko_scraper - INFO - Extracted content from article element, length: 3194
+2025-04-05 22:59:25,521 - tuko_scraper - INFO - Article saved: Pastor Ng'ang'a Lectures Woman Over Hairstyle after Disclosing Hubby Dumped Her
+2025-04-05 22:59:27,535 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/politics/584647-justin-muturi-ruto-unfit-president-claims-s-corrupt-dangerous-character/
+2025-04-05 22:59:27,539 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/584750-siaya-woman-asked-jalango-send-ksh-1k-hubby-confirms-gave-money/
+2025-04-05 22:59:27,540 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584292-ruto-vows-deliver-mt-kenya-remembers-support/
+2025-04-05 22:59:37,324 - tuko_scraper - INFO - Extracted content from article element, length: 3747
+2025-04-05 22:59:37,354 - tuko_scraper - INFO - Article saved: Ruto Vows to Deliver for Mt Kenya, Says He Remembers Their Support: "Mimi Si Wazimu Nisahau"
+2025-04-05 22:59:39,365 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/people/relationships/584673-bomet-murder-suspect-rachealine-ruttos-killing-nabbed/
+2025-04-05 22:59:39,366 - tuko_scraper - INFO - Scraped 4 articles from politics, 10 total so far
+2025-04-05 22:59:44,391 - tuko_scraper - INFO - Aiming to scrape up to 10 articles from lifestyle
+2025-04-05 22:59:44,392 - tuko_scraper - INFO - Scraping category: lifestyle from https://www.tuko.co.ke/lifestyle
+2025-04-05 22:59:44,392 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/lifestyle
+2025-04-05 22:59:52,752 - tuko_scraper - INFO - Found 0 articles in lifestyle
+2025-04-05 22:59:52,753 - tuko_scraper - INFO - Scraped 0 articles from lifestyle, 10 total so far
+2025-04-05 22:59:57,760 - tuko_scraper - INFO - Aiming to scrape up to 20 articles from sports
+2025-04-05 22:59:57,762 - tuko_scraper - INFO - Scraping category: sports from https://www.tuko.co.ke/sports
+2025-04-05 22:59:57,762 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports
+2025-04-05 23:00:05,448 - tuko_scraper - INFO - Found 15 articles in sports
+2025-04-05 23:00:05,451 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/kenya/counties/584732-trans-nzoia-21-year-woman-dies-delivery-alleged-medical-negligence/
+2025-04-05 23:00:05,452 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/celebrities/584766-exclusive-lenny-speaks-githurai-hit-song-heartbreak-dads-loss/
+2025-04-05 23:00:05,455 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/politics/584717-drama-section-embu-youth-shut-william-ruto-tour-uongo-uongo/
+2025-04-05 23:00:05,458 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/584681-mike-sonko-vows-machakos-woman-attacked-by-hyenas-tsavo-nitakulipia-nyumba-3-months/
+2025-04-05 23:00:13,963 - tuko_scraper - INFO - Extracted content from article element, length: 2618
+2025-04-05 23:00:14,069 - tuko_scraper - INFO - Article saved: Mike Sonko Vows to Help Machakos Woman Attacked by Hyenas in Tsavo: "Nitakulipia Nyumba 3 Months"
+2025-04-05 23:00:16,083 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/politics/584752-dci-summons-gathoni-wamuchomba-viral-ruto-chants-video/
+2025-04-05 23:00:24,134 - tuko_scraper - INFO - Extracted content from article element, length: 3625
+2025-04-05 23:00:24,185 - tuko_scraper - INFO - Article saved: DCI Summons Gathoni Wamuchomba after Viral 'Ruto Must Go' Chants Video
+2025-04-05 23:00:26,194 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/584750-siaya-woman-asked-jalango-send-ksh-1k-hubby-confirms-gave-money/
+2025-04-05 23:00:26,195 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/576520-who-kenny-andersons-spouse-everything-know/
+2025-04-05 23:00:28,240 - tuko_scraper - INFO - WebDriver initialized for tuko
+2025-04-05 23:00:28,318 - tuko_scraper - INFO - Database connection established
+2025-04-05 23:00:28,318 - tuko_scraper - INFO - Starting scraping for tuko
+2025-04-05 23:00:28,318 - tuko_scraper - INFO - Aiming to scrape up to 6 articles from news
+2025-04-05 23:00:28,318 - tuko_scraper - INFO - Scraping category: news from https://www.tuko.co.ke/news
+2025-04-05 23:00:28,319 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/news
+2025-04-05 23:00:33,596 - tuko_scraper - INFO - Extracted content from article element, length: 4745
+2025-04-05 23:00:33,626 - tuko_scraper - INFO - Article saved: Who is Kenny Anderson's spouse? Everything you should know
+2025-04-05 23:00:35,634 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/sports/562899-list-fastest-growing-sports-world-watch/
+2025-04-05 23:00:42,303 - tuko_scraper - INFO - Found 0 articles in news
+2025-04-05 23:00:42,303 - tuko_scraper - INFO - Scraped 0 articles from news, 0 total so far
+2025-04-05 23:00:43,083 - tuko_scraper - INFO - Extracted content from article element, length: 6544
+2025-04-05 23:00:43,114 - tuko_scraper - INFO - Article saved: List of fastest growing sports in the world to watch out for in 2025
+2025-04-05 23:00:45,122 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584754-nick-mudimbas-mum-painfully-eulogises-emotional-sendoff-ive-lost-god/
+2025-04-05 23:00:47,312 - tuko_scraper - INFO - Aiming to scrape up to 7 articles from entertainment
+2025-04-05 23:00:47,313 - tuko_scraper - INFO - Scraping category: entertainment from https://www.tuko.co.ke/entertainment
+2025-04-05 23:00:47,314 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment
+2025-04-05 23:00:53,333 - tuko_scraper - INFO - Extracted content from article element, length: 2414
+2025-04-05 23:00:53,360 - tuko_scraper - INFO - Article saved: Nick Mudimba's Mum Painfully Eulogises Him in Emotional Sendoff: "I've Lost, God Knows Why"
+2025-04-05 23:00:55,368 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/people/family/584664-mum-newborn-reportedly-switched-hospital-speaks-dna-results-sio-wangu/
+2025-04-05 23:00:55,369 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/business-economy/584713-kenya-renews-gulf-oil-import-deal-secures-pump-prices/
+2025-04-05 23:00:55,370 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/entertainment/celebrities/584249-simon-kabu-buys-daughter-maurine-3-vehicles-worth-ksh-30-million/
+2025-04-05 23:00:56,925 - tuko_scraper - INFO - Found 16 articles in entertainment
+2025-04-05 23:00:56,938 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584749-sylvia-kemuntos-heartbroken-mum-appeals-justice-mmu-daughter-nakuanga-mama-mboga/
+2025-04-05 23:01:02,022 - tuko_scraper - INFO - Extracted content from article element, length: 2829
+2025-04-05 23:01:02,148 - tuko_scraper - INFO - Article saved: Simon Kabu Buys Daughter Morine 3 Vehicles Worth KSh 30m
+2025-04-05 23:01:04,165 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/business-economy/584710-kenya-import-5m-bags-yellow-maize-unga-prices-skyrocket/
+2025-04-05 23:01:11,538 - tuko_scraper - INFO - Extracted content from article element, length: 3802
+2025-04-05 23:01:11,574 - tuko_scraper - INFO - Article saved: Kenya to Import Over 5m Bags of Yellow Maize After Unga Prices Skyrocket
+2025-04-05 23:01:12,196 - tuko_scraper - INFO - Extracted content from article element, length: 3153
+2025-04-05 23:01:12,252 - tuko_scraper - INFO - Article saved: Sylvia Kemunto's Heartbroken Mum Appeals for Justice for MMU Daughter: "Nakuanga Mama Mboga"
+2025-04-05 23:01:13,588 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/family/584748-kericho-woman-stuck-mombasa-hospital-ksh-63-million-bill/
+2025-04-05 23:01:14,265 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/entertainment/584699-female-football-fan-cries-stands-ulinzi-stars-loss-mnafikiria-tunaskia-aje/
+2025-04-05 23:01:14,267 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/politics/584717-drama-section-embu-youth-shut-william-ruto-tour-uongo-uongo/
+2025-04-05 23:01:14,270 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/219311-sonkos-secret-love-life-revealed.html
+2025-04-05 23:01:14,272 - tuko_scraper - INFO - Loading URL: https://www.tuko.co.ke/people/584761-nakuru-passengers-stranded-injured-accident-involving-mash-poa-nakuru-eldoret-highway/
+2025-04-05 23:01:21,575 - tuko_scraper - INFO - Extracted content from article element, length: 3373
+2025-04-05 23:01:21,647 - tuko_scraper - INFO - Article saved: Kericho Woman Stranded at Mombasa Hospital Over KSh 6.3 Million Bill
+2025-04-05 23:01:23,658 - tuko_scraper - INFO - Article already exists: https://www.tuko.co.ke/sports/569235-who-charles-leclercs-girlfriend-meet-alexandra-saint-mleux/
+2025-04-05 23:01:23,658 - tuko_scraper - INFO - Scraped 8 articles from sports, 18 total so far
+2025-04-05 23:01:28,679 - tuko_scraper - INFO - ✅ Saved 18 articles to tuko_articles.csv
+2025-04-05 23:01:28,679 - tuko_scraper - INFO - Total articles scraped: 18 (max limit: 30)
+2025-04-05 23:01:28,679 - tuko_scraper - INFO - Scraping completed successfully for tuko
+2025-04-05 23:01:29,569 - tuko_scraper - INFO - WebDriver closed
+2025-04-05 23:01:29,590 - tuko_scraper - INFO - Database conn closed

@@ -1,0 +1,9 @@
+2025-04-05 22:30:58,256 - main - INFO - Starting Kenya News scraping process
+2025-04-05 22:30:58,258 - main - INFO - Running citizen scraper
+2025-04-05 22:30:58,258 - main - INFO - Starting CitizenScraper
+2025-04-05 22:35:27,887 - main - INFO - CitizenScraper completed: successful
+2025-04-05 22:35:27,889 - main - INFO - Running daily_nations scraper
+2025-04-05 22:35:27,889 - main - INFO - Starting DailyNationsScraper
+2025-04-05 22:37:03,568 - main - INFO - DailyNationsScraper completed: failed
+2025-04-05 22:37:03,568 - main - INFO - Running standardmedia scraper
+2025-04-05 22:37:03,569 - main - INFO - Starting StandardMediaScraper
